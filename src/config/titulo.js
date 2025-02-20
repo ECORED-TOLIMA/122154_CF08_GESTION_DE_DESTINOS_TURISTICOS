@@ -1,1 +1,1 @@
-module.exports = 'Administración de acciones y participación comunitaria'
+module.exports = 'Ecored Base PKG'

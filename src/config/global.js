@@ -1,19 +1,17 @@
 export default {
   global: {
-    componenteFormativo:
-      'Administración de acciones y participación comunitaria',
-    descripcionCurso:
-      'La participación comunitaria es un mecanismo a través del cual los actores turísticos pueden expresar sus propuestas y participar en la toma de decisiones en todos los niveles de gobierno. Este derecho es fundamental para influir en la gestión de recursos y acciones que afectan el desarrollo comunitario. Por medio de programas, el turismo busca informar a los grupos de interés sobre estos espacios de participación.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
+    Name: 'Nombre del recurso educativo',
+    Description: 'Descripción del RED',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
       },
     ],
   },
@@ -33,12 +31,12 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Administración',
+        titulo: 'Tema 1',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo_de_segundo_nivel',
+            titulo: 'Subtema 1',
             hash: 't_1_1',
           },
         ],
@@ -47,25 +45,13 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Gestión en los destinos',
+        titulo: 'Tema 2',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Coordinación turística',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema4',
-        numero: '4',
-        titulo: 'Liderazgo y responsabilidad turística',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema5',
-        numero: '5',
-        titulo: 'Estrategias concertadas',
+        titulo: 'Tema 3',
         desarrolloContenidos: true,
       },
     ],
@@ -100,7 +86,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/dist.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -116,28 +102,22 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema_complementario',
-      referencia: 'Referencia_complementario',
-      tipo: 'Tipo_complementario',
-      link: 'Link_complementario',
-    },
-    {
       tema: '',
       referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tipo: 'Sitio web',
+      link: '',
     },
   ],
   glosario: [
     {
-      termino: 'Termino_glosario',
-      significado: 'Significado_glosario',
+      termino: 'Término',
+      significado: 'Definición',
     },
   ],
   referencias: [
     {
-      referencia: 'Nombre_referencias',
-      link: 'Link_referencias',
+      referencia: '',
+      link: '',
     },
   ],
   creditos: [
@@ -145,14 +125,14 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
-          cargo: 'Responsable del equipo',
+          nombre: 'Nombre completo',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Liliana Victoria Morales Gualdrón',
+          nombre: 'Nombre completo',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Centro XYZ - Regional XYZ',
         },
       ],
     },
@@ -160,9 +140,9 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Nombre_rol',
-          centro: 'Nombre_centro_formación',
+          nombre: 'Nombre responsable',
+          cargo: 'Nombre del rol',
+          centro: 'Centro XYZ - Regional XYZ',
         },
       ],
     },
@@ -170,19 +150,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Diseñador web',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          nombre: 'Nombre responsable',
+          cargo: 'Diseñador de contenidos',
+          centro: 'Centro XYZ - Regional XYZ',
         },
         {
-          nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          nombre: 'Nombre responsable',
+          cargo: 'Desarrollador <i>full stack</i>',
+          centro: 'Centro XYZ - Regional XYZ',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Animación y producción audiovisual',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          nombre: 'Nombre responsable',
+          cargo: 'Animador y productor audiovisual',
+          centro: 'Centro XYZ - Regional XYZ',
         },
       ],
     },
@@ -190,19 +170,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Evaluación de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          nombre: 'Nombre responsable',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
+          centro: 'Centro XYZ - Regional XYZ',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Validación de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
-        },
-        {
-          nombre: 'Nombre_responsable',
-          cargo: 'Validación de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          nombre: 'Nombre responsable',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro XYZ - Regional XYZ',
         },
       ],
     },
@@ -213,25 +188,4 @@ export default {
     creativeCommons:
       'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
   },
-  // creditosInicio: [
-  //   {
-  //     titulo: 'En alianza',
-  //     contenido: [
-  //       require('@/assets/template/logo-sena-naranja.svg'),
-  //       require('@/assets/template/mintic.jpg'),
-  //       require('@/assets/template/minsalud.jpg'),
-  //     ],
-  //   },
-  //   {
-  //     titulo: 'En compañía',
-  //     contenido: [
-  //       require('@/assets/template/presidencia.jpg'),
-  //       require('@/assets/template/ecopetrol.jpg'),
-  //     ],
-  //   },
-  //   {
-  //     titulo: 'Una iniciativa',
-  //     contenido: [require('@/assets/template/santander.jpg')],
-  //   },
-  // ],
 }
