@@ -5,9 +5,17 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Tema 4
+      h1 Liderazgo y responsabilidad
 
-
+    separador
+    #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 4.1	Estrategias de liderazgo en el sector turístico
+    separador
+    #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 4.2	Delegación de funciones y responsabilidades
+    separador
+    #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 4.3	Coordinación de alianzas público-privadas
 </template>
 
 <script>
