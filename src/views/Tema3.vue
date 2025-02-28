@@ -57,7 +57,6 @@
           figure
             img(src='@/assets/curso/temas/tema3/img4.svg', alt='Texto que describa la imagen')
         .col-lg-7
-        
           LineaTiempoD.color-acento-botones
             p.text-small(numero="1" titulo="Identificación de grupos de interés") Definido previamente en el mapa de actores.
             p.text-small(numero="2" titulo="Definición de temas a tratar") Se priorizan temas relacionados a las propuestas o proyectos, los compromisos pactados y opiniones de los involucrados.
@@ -95,7 +94,6 @@
                     td  #[b ¿Qué es?]
                     td 
                       p.text-left La colaboración se manifiesta y ocurre cuando se trabaja con una o más personas que tienen diferentes habilidades para producir algo.
-                      La colaboración es un intercambio de habilidades aprendidas que pueden mejorar la productividad, resolver problemas, fomentar relaciones saludables y crear trabajo en equipo.
   
                     td
                       p.text-left La colaboración es un intercambio de habilidades aprendidas que pueden mejorar la productividad, resolver problemas, fomentar relaciones saludables y crear trabajo en equipo.
@@ -151,36 +149,36 @@
          
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
         .tarjeta.tarjeta--BG02.color-primario.p-4
-          .row.justify-content-center.mb-3
-            .col-6
+          .row.justify-content-center
+            .col-6.mb-3
               img(src='@/assets/curso/temas/tema3/img6.svg' alt='AvatarTop')
           h5.text-center Claridad
           p.text-center Cuando el comité de trabajo tiene claro el objetivo, el proceso a desarrollar y la diversidad de situaciones que giran alrededor de los planes de trabajo. 
         .tarjeta.tarjeta--BG02.color-primario.p-4
-          .row.justify-content-center.mb-3
-            .col-6
+          .row.justify-content-center
+            .col-6.mb-3
               img(src='@/assets/curso/temas/tema3/img7.svg' alt='AvatarTop')
           h5.text-center Impacto
           p.text-center Ser consiente como grupo que existen consecuencias producto de las alternativas seleccionadas. Por ello, es valioso elegir la opción que genere el impacto más favorable.
         .tarjeta.tarjeta--BG02.color-primario.p-4
-          .row.justify-content-center.mb-3
-            .col-6
+          .row.justify-content-center
+            .col-6.mb-3
               img(src='@/assets/curso/temas/tema3/img8.svg' alt='AvatarTop')
           h5.text-center Periodicidad
           p.text-center El periodo de tiempo para tomar decisiones es aleatorio y depende de las situaciones que surjan con su inmediatez. 
         .tarjeta.tarjeta--BG02.color-primario.p-4
-          .row.justify-content-center.mb-3
-            .col-6
+          .row.justify-content-center
+            .col-6.mb-3
               img(src='@/assets/curso/temas/tema3/img9.svg' alt='AvatarTop')
           h5.text-center Actores
           p.text-center Grupo de involucrados que forman parte del proceso de toma de decisiones individual o colectivo.
         .tarjeta.tarjeta--BG02.color-primario.p-4
-          .row.justify-content-center.mb-3
-            .col-6
+          .row.justify-content-center
+            .col-6.mb-3
               img(src='@/assets/curso/temas/tema3/img10.svg' alt='AvatarTop')
           h5.text-center Reversibilidad
           p.text-center Es la posibilidad de estudiar el proceso de toma de decisión frente a las alternativas y definir las consecuencias de cada una. 
-          .tarjeta.tarjeta--BG01.p-4.mb-5
+
       
   
     
@@ -240,7 +238,7 @@
             
       .tarjeta.tarjeta--BG05.p-4.mb-3
           .row.justify-content-center.align-items-center.mb-3
-            .col-lg-9
+            .col-lg-11
               p Y para finalizar, se relacionan las estrategias presentes en el proceso de toma de decisiones, como parte de la coordinación efectiva:
               ol.lista-ol--cuadro.lista-ol--separador
                 li 
@@ -282,22 +280,20 @@
       
       
        
-      .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g.bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img19.png')})`}" data-aos="fade-left"
         )
         .bloque-texto-g__texto.p-4(data-aos="fade-right")
           p.mb-0 Es claro resaltar, los conflictos pueden surgir en diversas relaciones, como entre turistas y empresas turísticas, entre empresas del sector, con proveedores e incluso, entre el ente gubernamental y los actores involucrados en acciones turísticas. Por lo tanto, es vital comprender cómo se presentan y cuál es el procedimiento adecuado para abordar estos conflictos de manera integral en el sector turístico. También, el conflicto es una etapa transitoria en toda negociación que debe resolverse, ya sea mediante concesiones que lleven a un acuerdo o a través de una ruptura debido a una mala gestión de la escalada del mismo conflicto. 
-            br
-            br
-            |
+            
   
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           p De ahí, la importancia al definir la resolución de conflictos como el conjunto de conocimientos y habilidades para comprender e intervenir en la solución pacífica y no violenta de enfrentamientos entre personas. Su relevancia radica en mejorar la calidad de decisiones y soluciones a problemas, facilitando la comunicación abierta entre participantes y promoviendo el reconocimiento de la legitimidad del otro, permitiendo las siguientes razones para negociar:  
       
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-12
+      .row.justify-content-center.align-items-center.mb-4
+        .col-lg-10
           .cajon.color-primario.p-4.mb-4
                 ul.lista-ul
                   li
@@ -312,7 +308,7 @@
                  
   
       .row.justify-content-center.align-items-center.mb-3
-        .col-lg-9
+        .col-lg-10
           p Los siguientes, son los pasos para solucionar un conflicto:
           ol.lista-ol--cuadro.lista-ol--separador
             li 
@@ -365,31 +361,18 @@
                 figure
                   img(src='@/assets/curso/temas/tema3/img20.svg', alt='Texto que describa la imagen')
                   figcaption Ajustado de telcel.com (s.f.)
-              .tarjeta.color-primario.tarjeta--BG03.p-3(x="20%" y="29%" numero="+")
-                ul.lista-ul
-                  li
-                    i.fas.fa-angle-right
-                    | Se usa habitualmente en problemas en los que se ven involucrados varias partes
+              .tarjeta.color-primario.tarjeta--BG03.p-3(x="30%" y="12%" numero="2")
+                p El mediador es responsable de crear un ambiente donde sea posible compartir información, profundizar en los problemas y expresar libremente sus problemas.
                   
   
-              .tarjeta.color-primario.tarjeta--BG03.p-3(x="75%" y="29%" numero="+")
-                ul.lista-ul
-                  li
-                    i.fas.fa-angle-right
-                    | El mediador es responsable de crear un ambiente donde sea posible compartir información, profundizar en los problemas y expresar libremente sus problemas.
-              .tarjeta.color-primario.tarjeta--BG03.p-3(x="20%" y="50%" numero="+")
-                ul.lista-ul
-                  li
-                    i.fas.fa-angle-right
-                    | Consiste en juntas y mesas de especialistas que revisan los conflictos y ofrecen una evaluación totalmente objetiva en todos los aspectos.
-              .tarjeta.color-primario.tarjeta--BG03.p-3(x="75%" y="50%" numero="+")
-                ul.lista-ul
-                  li
-                    i.fas.fa-angle-right
-                    | Se suele utilizar en cuestiones que necesitan una rápida solución entre varias partes.
-                  li
-                    i.fas.fa-angle-right
-                    | Su objetivo es encontrar una solución que ponga fin al problema.
+              .tarjeta.color-primario.tarjeta--BG03.p-3(x="68%" y="12%" numero="4")
+                p Se suele utilizar en cuestiones que necesitan una rápida solución entre varias partes.
+              .tarjeta.color-primario.tarjeta--BG03.p-3(x="10%" y="80%" numero="+")
+                p Se usa habitualmente en problemas en los que se ven involucrados varias partes.
+              .tarjeta.color-primario.tarjeta--BG03.p-3(x="49%" y="80%" numero="3")
+                p Consiste en juntas y mesas de especialistas que revisan los conflictos y ofrecen una evaluación totalmente objetiva en todos los aspectos.
+              .tarjeta.color-primario.tarjeta--BG03.p-3(x="87%" y="80%" numero="5")
+                p Su objetivo es encontrar una solución que ponga fin al problema.
                     
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-12
@@ -397,33 +380,34 @@
   
       h5 Tabla 5.
         span  #[i Amenazas de las crisis de los implicados ]
-        .row.mb-5
-          .col-lg-12
-            .tabla-b.color-acento-contenido.mb-5
-              table(alt="Tabla que relaciona las teorías de la administración, la cual explica en qué consiste casa una y asocia sus respectivos principios.")
-                caption Nota. Tomado de Rodríguez & Fraiz (2010)
-                thead.bghead
-                  tr
-                    th Dominio
-                    th Amenaza externa
-                    th Amenaza interna
-                    th Actor del turismo
-                tbody
-                  tr
-                    td  Socio-cultural 
-                    td 
-                      p Disturbios
-                      p  Delincuencia
-                      p  Xenofobia
-  
-  
-                    td
-                      p.text-left Conflictos culturales
-                    td
-                      p  Entorno natural - cultural
-                      p Turistas
-                      p Comunidad local
-                      p Negocios turísticos
+      .row.justify-content-center.align-items-center.mb-4
+        .col-lg-12
+          .tabla-b.color-acento-contenido.mb-5
+            table(alt="Tabla que relaciona las teorías de la administración, la cual explica en qué consiste casa una y asocia sus respectivos principios.")
+              caption Nota. Tomado de Rodríguez & Fraiz (2010)
+              thead.bghead
+                tr
+                  th Dominio
+                  th Amenaza externa
+                  th Amenaza interna
+                  th Actor del turismo
+              tbody
+                tr
+                  td  Socio-cultural 
+                  td 
+                    p Disturbios
+                    p  Delincuencia
+                    p  Xenofobia
+
+
+                  td
+                    p.text-left Conflictos culturales
+                  td
+                    p  Entorno natural - cultural
+                    p Turistas
+                    p Comunidad local
+                    p Negocios turísticos
+                    
       .tarjeta.tarjeta--BG05.p-4.mb-3
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-12
