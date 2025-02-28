@@ -229,10 +229,9 @@
     .tarjeta.tarjeta--BG05.p-4.mb-3
       #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 2.3	Participación y roles de los actores en la gestión de destinos
-      
-    
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4
+         
+      .row.justify-content-center.align-items-center.mb-4
+        .col-lg-5
           figure
             img(src='@/assets/curso/temas/tema2/img14.png', alt='')
         .col-lg-6

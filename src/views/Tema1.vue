@@ -1,13 +1,13 @@
 <template lang="pug">
   .curso-main-container.pb-3
     BannerInterno
-    .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+    .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-4
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 1
         h1 Administración
     
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center
         .col-lg-12
           figure
             img(src='@/assets/curso/temas/tema1/img1.png', alt='Texto que describa la imagen')
@@ -17,7 +17,7 @@
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 1.1	Conceptos clave en la administración turística
       
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-4
           figure
             img(src='@/assets/curso/temas/tema1/img2.png', alt='Texto que describa la imagen')
@@ -39,11 +39,11 @@
                   .text-black.p-4
                     h4.text-center Koontz & Heinz (2004) 
                     p.text-center El proceso de diseñar y mantener un entorno en el que, trabajando en grupos, los individuos cumplan eficientemente objetivos específicos.
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           p A partir de estos conceptos, se puede expresar que la administración ha evolucionado a la par del ser humano y su necesidad de sobrevivir, requiriendo alcanzar metas con los recursos disponibles en el entorno, desarrollando destrezas y habilidades que le posibiliten definir su importancia, al proporcionar información relevante y oportuna que, al día de hoy, contribuyen en la gestión eficiente y toma de decisiones, para minimizar riesgos y proyectar oportunidades. 
           p De ahí, la relevancia de hacer el siguiente recorrido sobre su desarrollo en el tiempo, el cual se basa en lo expuesto por Broncano et al., (2022):
-      .row.mb-5
+      .row.mb-4
         .col-lg-11
           LineaTiempoE.color-primario
             .row(titulo="Epoca primitiva" subtitulo="")
@@ -190,16 +190,16 @@
                   li
                     i.fas.fa-angle-right
                     | Implementa técnicas y herramientas innovadoras que permiten una gestión eficaz de recursos.
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           p La evolución de la administración en el tiempo, por la búsqueda de organización y gestión de recursos, ha permitido que sea estudiada como ciencia por parte de varias personas y organizaciones, presentando planteamientos en pro de un mejor desempeño reflejado en teorías, como se pueden reflejar continuación:
       
       .titulo-sexto.color-acento-contenido.offset-0(data-aos="zoom-in")
         h5 Tabla 1.
         span  #[i Teorías de la administración]
-      .row.mb-5
+      .row.mb-4
         .col-lg-12
-          .tabla-b.color-acento-contenido.mb-5
+          .tabla-b.color-acento-contenido.mb-4
             table(alt="Tabla que relaciona las teorías de la administración, la cual explica en qué consiste casa una y asocia sus respectivos principios.")
               caption Nota. Ajustado de Gómez (s.f.). Quien cita a Bento (2007); Chiavenato (2000); Gordon (1996)
               thead.bghead
@@ -378,10 +378,10 @@
                         i.fas.fa-angle-right
                         | Toma de decisiones estratégicas: comprender las necesidades de los empleados facilita la toma de decisiones informadas y estratégicas en la gestión de recursos humanos, contribuyendo a una cultura organizacional positiva y eficiente.  
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           p Cabe resaltar que, la administración posee estas características que le definen su naturaleza: 
-      .tarjeta.tarjeta--BG01.p-4.mb-5
+      .tarjeta.tarjeta--BG01.p-4.mb-4
         SlyderA(tipo="b" data-aos="zoom-in")
           .row.justify-content-center
             .col-lg-4.order-lg-1.order-2
@@ -407,10 +407,10 @@
               p.mb-0 Las empresas se organizan por niveles que representan la autoridad, comunicación y toma de decisiones por lo cual se interactúa como organismo social.
             .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/temas/tema1/img16.png' alt="Imagen decorativa")          
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           p Para dar cumplimiento de logros, se hace necesario la claridad de las acciones universales que permiten coordinar el conjunto de actividades que se presentan en los grupos, colectivos o empresas que impactan en las diferentes posiciones de los miembros, denominados puestos o cargo o en su defecto, involucrado directo de la acción. Es aquí, en donde se habla de las funciones de la administración para la puesta en marcha de estrategias de acción: 
-      SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+      SlyderF.mb-4(columnas="col-lg-6 col-xl-4")
         .tarjeta.tarjeta--BG02.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-6
@@ -442,7 +442,7 @@
           h5.text-center Función de controlar
           p.text-center Es asegurar que las tareas se llevan a cabo y conforme a lo planificado.
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           p Con base en las funciones, se determinan los roles de la administración en general, contemplando como aspectos claves, un conjunto de habilidades y capacidades junto con un ámbito de control; tal como se puede apreciar a continuación:
 
@@ -463,7 +463,7 @@
       separador
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 1.2	Fases y etapas de la administración en concertación de acciones turísticas
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-3
           figure
             img(src='@/assets/curso/temas/tema1/img23.svg', alt='Imagen decorativa')
@@ -471,13 +471,13 @@
         .col-lg-9
           p La administración para dar cumplimiento con los objetivos planteados, requiere aplicar de forma secuencial, una serie de pasos hasta llegar al logro de metas de manera eficiente y que a su vez conforman un entendimiento integral entre ellas. Estos pasos se reconocen como proceso administrativo y se trata de una relación entre las fases que fluyen de forma continua y dinámica. Es de tener en cuenta, la fase mecánica describe el funcionamiento del proceso y la fase dinámica describe el hecho mismo de manejar u operar. También, el proceso administrativo posee unas etapas que reflejan la secuencia de la acción, estas son planificación, organización, implementación o dirección y control.
           p A continuación, se detalla información sobre las fases y las etapas:
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-10.movil
           figure
             img(src='@/assets/curso/temas/tema1/img24_1.svg', alt='Texto que describa la imagen')
             figcaption Ajustado de telcel.com (s.f.)
         .col-lg-10.desktop
-          ImagenInfografica.color-acento-botones.mb-5
+          ImagenInfografica.color-acento-botones.mb-4
             template(v-slot:imagen)
               figure
                 img(src='@/assets/curso/temas/tema1/img24.svg', alt='Texto que describa la imagen')
@@ -509,7 +509,7 @@
                 li
                   i.fas.fa-angle-right
                   | Dirigir implica mandar, influir y motivar a los empleados para que realicen tareas esenciales.
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           p El sector del turismo requiere para el manejo de las actividades turísticas en un territorio, la aplicación de la administración para el logro de los objetivos proyectados dentro del desarrollo turístico. El éxito depende de la capacidad de coordinar eficientemente el funcionamiento de los involucrados en la cadena de valor, con los cuales se fluye estratégicamente, hasta fortalecer una oferta turística de calidad para los turistas. La gestión de esas actividades requiere por parte de la administración una coherencia secuencial de organización, dada desde el proceso administrativo, con el objetivo de planificar los destinos turísticos hasta alcanzar ser parte de la oferta turística deseada.
           p Por lo anterior y lo relacionado con las etapas administrativas, es preciso relacionar lo siguiente:
@@ -517,9 +517,9 @@
       .titulo-sexto.color-acento-contenido.offset-0(data-aos="zoom-in")
         h5 Tabla 2.
         span  #[i Etapas del proceso administrativo]
-      .row.mb-5
+      .row.mb-4
         .col-lg-12
-          .tabla-b.color-acento-contenido.mb-5
+          .tabla-b.color-acento-contenido.mb-4
             table(alt="Tabla que contiene la descripción de la concertación de acciones turísticas de cada una de las 4 etapas que hacen parte del proceso administrativo.")
               caption Nota. Ajustado de Arumir (2016). 
               thead.bghead
@@ -638,7 +638,7 @@
       #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 1.3	Tipos de administración aplicada a destinos turísticos
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           p La administración se clasifica para ordenar sus elementos con base en criterios comunes que se poseen entre ellos. Este ejercicio establece semejanzas y diferencias que facilitan la ubicación por rasgos específicos, definiéndolos por grupos.
           p Dentro de los elementos de la administración se encuentran similitudes entre el sector público y privado, pero varían los estilos administrativos al interior de su funcionamiento. A continuación, una relación al respecto:
@@ -646,9 +646,9 @@
       .titulo-sexto.color-acento-contenido.offset-0(data-aos="zoom-in")
         h5 Tabla 3.
         span  #[i Aspectos de la tipología de administración relacionada con destinos turísticos]
-      .row.mb-5
+      .row.mb-4
         .col-lg-12
-          .tabla-b.color-acento-contenido.mb-5
+          .tabla-b.color-acento-contenido.mb-4
             table(alt="Tabla que relaciona la tipología de administración, la cual está basada en los aspectos que hacen parte de la administración pública, privada y mixta.")
               caption Nota. 
                 | Ajustado de Universidad Nacional Autónoma de México-UNAM (2016); Prieto (2023); Ludeña & López (2021). 
@@ -698,11 +698,11 @@
                   td.text-left
                     p Se caracteriza por operar en territorios específicos que trascienden fronteras por la intervención del estado según el tamaño y ámbito en el cual se proyecta.
                     p Dependiendo del proyecto se puede extender de territorios locales hasta internacionales.
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           p Complementando la información anterior, a continuación, se relaciona la ejemplificación de cada una de las administraciones ya explicadas: 
       
-      .tarjeta.tarjeta--gris.tarjeta--BG04.p-4.mb-5
+      .tarjeta.tarjeta--gris.tarjeta--BG04.p-4.mb-4
         PasosB.color-acento-contenido
           .row(titulo="")
             .col-md-12.mb-4.mb-md-0
@@ -726,7 +726,7 @@
       #t_1_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 1.4	Planificación estratégica en la administración
     
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-5
           figure
             img(src='@/assets/curso/temas/tema1/img28.png', alt='Texto que describa la imagen')
@@ -734,10 +734,10 @@
           p El desarrollo de los destinos turísticos, requiere como se había mencionado previamente, de la administración y de su conjunto de herramientas y mecanismos que hacen posible que fluyan de forma dinámica y sostenible. Como parte de la aplicación del proceso administrativo y teniendo en cuenta la tipología de la administración, se hace necesario emplear la planeación, para establecer estrategias que forjen el camino hacia el logro de objetivos preestablecidos.
           .cajon.color-secundario.p-4.mb-4
             p Entendiendo que la planeación es trazar el curso de una acción a seguir y que este, requiere de la claridad en los pasos operacionales secuenciales, definidos con tiempos determinados, bajo parámetros y lineamientos establecidos, y con unos recursos específicos para ello. Es decir, preparar un conjunto de decisiones enfocadas al logro de objetivos que se plasman en un plan con características ajustables entre el medio y el fin. 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           p Ante esto, se deben considerar los siguientes tipos de planeación que contribuyen a establecer de donde surgen las estrategias y la ejecución de acciones para alcanzarlas: 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-7
           LineaTiempoD.color-acento-botones
             p.text-small(numero="1" titulo="Estratégica") Es realizada por los directivos de una organización y se lleva a largo plazo. Nace del análisis de factores externos e internos y como estos afectan los objetivos proyectados.
@@ -748,7 +748,7 @@
         .col-lg-3
           figure
             img(src='@/assets/curso/temas/tema1/img29.png', alt='Texto que describa la imagen')
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           .cajon.color-primario.p-4
             .row.justify-content-center.align-items-center
@@ -758,7 +758,7 @@
               .col-lg-10
                 p Para el diseño de los planes sólidos y equilibrados se requiere aprovechar los principios de la planeación administrativa como guía que lleve al logro de objetivos trazados.
   
-      .tarjeta.tarjeta--gris.tarjeta--BG04.p-4.mb-5
+      .tarjeta.tarjeta--gris.tarjeta--BG04.p-4.mb-4
         PasosB.color-acento-contenido
           .row(titulo="")
             .col-md-12.mb-4.mb-md-0
@@ -779,31 +779,34 @@
                 img(src='@/assets/curso/temas/tema1/img33.svg', alt='Texto que describa la imagen')
                 figcaption Nota. Ajustado de López C. (s.f.).
     
-      .tarjeta.tarjeta--BG05.p-4.mb-5
-        .row.justify-content-center.align-items-center.mb-5
+      .tarjeta.tarjeta--BG05.p-4.mb-4
+        .row.justify-content-center.align-items-center.mb-4
           .col-lg-11
             p Empleando los elementos, características y principios de la administración de manera articulada, se define la planeación estratégica, como el proceso manejado por las personas u organización en la toma de decisiones, después de evaluar una situación a la cual está expuesto el grupo de personas, empresa, entidad o para este caso, un destino turístico. Con ella, se anticipa el direccionamiento de las acciones de forma estratégica. 
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-center.mb-4
           .col-lg-6
             p Es aquí en donde se presenta la relación entre lo planeado y lo ejecutado, surgiendo dentro del proceso, el diseño de un plan para el logro de los objetivos estratégicos propuestos y que son alcanzados a lo largo de la ejecución de las acciones proyectadas, a través de unos pasos:
-            .cajon.color-primario.p-4.mb-4
-              ul.lista-ul
-                li
-                  i.fas.fa-angle-right
-                  | Recopilar información.
-                li
-                  i.fas.fa-angle-right
-                  | Desarrollar la estrategia.
-                li
-                  i.fas.fa-angle-right
-                  | Gestionar el desempeño una vez que el plan está en marcha.
+            .cajon.color-primario.p-3.mb-4
+              .row.justify-content-center.align-items-center
+                .col-lg-1
+                .col-lg-10
+                  ul.lista-ul
+                    li
+                      i.fas.fa-angle-right
+                      | Recopilar información.
+                    li
+                      i.fas.fa-angle-right
+                      | Desarrollar la estrategia.
+                    li
+                      i.fas.fa-angle-right
+                      | Gestionar el desempeño una vez que el plan está en marcha.
             p El instrumento de planeación, es denominado plan de trabajo y requiere de la concertación de los actores turísticos involucrados para que obtenga un carácter dinámico y se adecue al contexto social, espacial y temporal. Con base en ello, se plantean estrategias que propenden por la solución a problemáticas territoriales y sobre la cual, se ejercen actividades de mejora o transformación. 
             p Al respecto, estos son los tipos de planes de trabajo:
           .col-lg-3
             figure
               img(src='@/assets/curso/temas/tema1/img34.png', alt='Texto que describa la imagen')
 
-      .row.justify-content-center.mb-5
+      .row.justify-content-center.mb-4
         .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
@@ -894,7 +897,7 @@
                   span.text-black 8
                 | Métricas: indicadores que miden el progreso, productividad y eficiencia de las acciones en tiempo y ejecución de recursos.
     
-      .tarjeta.color-secundario.tarjeta.color2.p-3.mb-5(data-aos="fade-right") 
+      .tarjeta.color-secundario.tarjeta.color2.p-3.mb-4(data-aos="fade-right") 
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
             img(src="@/assets/curso/temas/tema1/img39.svg")
@@ -904,10 +907,10 @@
                 h3.mb-1 Anexo - Ejemplo plan de trabajo
                 p.text-small.mb-0 Partiendo de lo anterior, se invita a que acceda al siguiente ejemplo de un plan de trabajo, con parte de los componentes y las instrucciones de diligenciamiento:
               .col-sm-auto
-                a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/anexo.pdf')" target="_blank")
+                a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo_Ejemplo_Plan_trabajo.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           p De igual manera, se relacionan los pasos para construir un plan de trabajo:
 
@@ -924,14 +927,14 @@
           figure
             img(src='@/assets/curso/temas/tema1/img40_1.svg', alt='Figura que relaciona cuáles son los pasos que se deben seguir, si se desea llevar a cabo un plan de trabajo.')
             figcaption Nota. Personio.es (s.f.).
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           p Uno de los componentes del plan de trabajo, que es transversal a la ejecución del mismo, es el tiempo. Este requiere del apoyo gráfico en donde se reflejan las actividades de forma secuencial, con la finalidad de identificar y comprobar las acciones a realizar. El esquema es denominado cronograma de actividades y es una herramienta que apoya el plan de trabajo como ruta de acciones o tareas a realizar. 
           p Al respecto, a continuación, se describen los tipos de cronograma de actividades que pueden utilizarse:
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-10
-          PasosA.color-acento-contenido.mb-5(tipo="n")
+          PasosA.color-acento-contenido.mb-4(tipo="n")
             .row(titulo="")
               .col-md-6.mb-4.mb-md-0
                 h4 Diagrama de Gantt
