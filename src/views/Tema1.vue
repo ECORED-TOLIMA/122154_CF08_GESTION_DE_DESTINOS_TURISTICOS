@@ -856,8 +856,8 @@
                   h4.mb-3.text-white De personal
               p.mt-3 Establece parámetros de trabajo por rol frente a los objetivos fijados para el logro de las metas en tiempo. Se emplea para el seguimiento evaluaciones de desempeño que sigue la métrica de cumplimiento y rendimiento productivo.
 
-      .tarjeta.tarjeta--BG05.p-4.mb-5
-        .row.justify-content-center.align-items-center.mb-5
+      .tarjeta.tarjeta--BG05.p-4.mb-3
+        .row.justify-content-center.align-items-center.mb-3
           .col-lg-9
             p Componentes de un plan de trabajo:
             ol.lista-ol--cuadro.lista-ol--separador
@@ -893,6 +893,75 @@
                 .lista-ol--cuadro__vineta
                   span.text-black 8
                 | Métricas: indicadores que miden el progreso, productividad y eficiencia de las acciones en tiempo y ejecución de recursos.
+    
+      .tarjeta.color-secundario.tarjeta.color2.p-3.mb-5(data-aos="fade-right") 
+        .row.justify-content-around.align-items-center
+          .col-3.col-sm-2.col-lg-1
+            img(src="@/assets/curso/temas/tema1/img39.svg")
+          .col
+            .row.justify-content-between.align-items-center
+              .col.mb-sm-0.mb-4
+                h3.mb-1 Anexo - Ejemplo plan de trabajo
+                p.text-small.mb-0 Partiendo de lo anterior, se invita a que acceda al siguiente ejemplo de un plan de trabajo, con parte de los componentes y las instrucciones de diligenciamiento:
+              .col-sm-auto
+                a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/anexo.pdf')" target="_blank")
+                  span Descargar
+                  i.fas.fa-file-download
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-12
+          p De igual manera, se relacionan los pasos para construir un plan de trabajo:
+
+      .titulo-sexto.color-acento-contenido.offset-1(data-aos="zoom-in")
+        h5 Figura 2.
+        span  #[i Pasos para elaborar un plan de trabajo ]
+    
+      .row.justify-content-center.mb-4
+        .col-md-10.desktop(data-aos="zoom-in")
+          figure
+            img(src='@/assets/curso/temas/tema1/img40.svg', alt='Figura que relaciona cuáles son los pasos que se deben seguir, si se desea llevar a cabo un plan de trabajo.')
+            figcaption Nota. Personio.es (s.f.).
+        .col-md-6.movil(data-aos="zoom-in")
+          figure
+            img(src='@/assets/curso/temas/tema1/img40_1.svg', alt='Figura que relaciona cuáles son los pasos que se deben seguir, si se desea llevar a cabo un plan de trabajo.')
+            figcaption Nota. Personio.es (s.f.).
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-12
+          p Uno de los componentes del plan de trabajo, que es transversal a la ejecución del mismo, es el tiempo. Este requiere del apoyo gráfico en donde se reflejan las actividades de forma secuencial, con la finalidad de identificar y comprobar las acciones a realizar. El esquema es denominado cronograma de actividades y es una herramienta que apoya el plan de trabajo como ruta de acciones o tareas a realizar. 
+          p Al respecto, a continuación, se describen los tipos de cronograma de actividades que pueden utilizarse:
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-10
+          PasosA.color-acento-contenido.mb-5(tipo="n")
+            .row(titulo="")
+              .col-md-6.mb-4.mb-md-0
+                h4 Diagrama de Gantt
+                p Se representa como gráfico de barras horizontal, en donde cada una es una actividad o tarea y su duración depende de la longitud de la barra.
+              .col-md-6
+                figure
+                  img(src='@/assets/curso/temas/tema1/img41.png', alt='Figura decorativa')
+            .row(titulo="")
+              .col-md-6
+                figure
+                  img(src='@/assets/curso/temas/tema1/img42.png', alt='Figura decorativa')
+              .col-md-6.mb-4.mb-md-0
+                h4 Diagrama de Pert
+                p Contribuye en la visualización de las tareas de forma independiente y sirve para determinar la ruta crítica, estimar recursos y tiempo.
+            .row(titulo="")
+              .col-md-6.mb-4.mb-md-0
+                h4 Cronograma de Hitos
+                p Se representa como gráfico horizontal en donde muestra las etapas del proyecto y en donde cada hito es un control al momento de finalizar cada etapa.
+              .col-md-6
+                figure
+                  img(src='@/assets/curso/temas/tema1/img43.png', alt='Figura decorativa')
+            .row(titulo="")
+              .col-md-6
+                figure
+                  img(src='@/assets/curso/temas/tema1/img44.png', alt='Figura decorativa')
+              .col-md-6.mb-4.mb-md-0
+                h4 Cronograma de actividades de trabajo
+                p Es el tipo de programa que emplea herramienta digital para organizar el tiempo, es decir que contribuye a identificar la disponibilidad de tiempo de cada actor o involucrado en el proyecto.
+
+
 
   </template>
 
