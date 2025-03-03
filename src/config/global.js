@@ -273,6 +273,11 @@ export default {
     },
     {
       referencia:
+        'Comparasoftware.com. (2023). Que es un organigrama mixto y como ayuda a simplificar los puestos.',
+      link: 'https://blog.comparasoftware.com/organigrama-mixto-que-es/',
+    },
+    {
+      referencia:
         'De Rham, M. & Mancero, L. (2009). Monitoreo y evaluación de acciones de desarrollo orientadas al impacto. ASOCAM.',
       link:
         'https://www.shareweb.ch/site/EI/Documents/PSD/Topics/Results%20Measurement/Monitoreo%20y%20evaluaci%C3%B3n%20de%20acciones%20de%20desarrollo%20orientadas%20al%20impacto.pdf',
@@ -294,6 +299,86 @@ export default {
         'Gomà R. (s.f.). La acción comunitaria: transformación social y construcción de ciudadanía.',
       link:
         'https://eduso.net/res/revista/7/marco-teorico/la-accion-comunitaria-transformacion-social-y-construccion-de-ciudadania',
+    },
+    {
+      referencia:
+        'Gómez P. (s.f.). Teorías de la administración y sus enfoques. Gestiopolis.com.',
+      link: 'https://www.gestiopolis.com/teorias-de-la-administracion/',
+    },
+    {
+      referencia:
+        'Laoyan S. (2024). Toma de decisiones: definición, pasos, tipos y características.',
+      link: 'https://asana.com/es/resources/decision-making-process',
+    },
+    {
+      referencia:
+        'López, C. (s.f.). Planeación administrativa – Qué es, principios, características, importancia, elementos, tipos y fallas. Gestiopolis.com.',
+      link: 'https://www.gestiopolis.com/planeacion-administrativa/',
+    },
+    {
+      referencia:
+        'Ludeña, J. & López, J. (2021). Administración Mixta. Economipedia.',
+      link:
+        'https://economipedia.com/definiciones/administracion-mixta.html#:~:text=La%20administraci%C3%B3n%20mixta%20es%20aquella,sector%20p%C3%BAblico%20y%20sector%20privado',
+    },
+    {
+      referencia:
+        'Marchioni, M. & Morín Ramírez, L. (s.f.). La intervención comunitaria. SemFIC.',
+      link: 'https://comunidad.semfyc.es/article/la-intervencion-comunitaria',
+    },
+    {
+      referencia:
+        'Martín, D. (2024). Organigrama de empresa: todo lo que necesitas saber. Openhr.cloud.',
+      link: 'https://www.openhr.cloud/blog/organigrama-de-empresa',
+    },
+    {
+      referencia: 'Pedroza, C. (s.f.). Roles de la administración.',
+      link:
+        'https://teoriasadmvas.fandom.com/es/wiki/ROLES_DE_LA_ADMINISTRACI%C3%92N_(CLAUDIA_PEDROZA_1_C)_',
+    },
+    {
+      referencia:
+        'Personio.es. (s.f.). Plan de trabajo: ¿qué es y cómo usarlo en favor de la empresa?',
+      link:
+        'https://www.personio.es/glosario/plan-de-trabajo/#qu-tipos-de-planes-de-trabajo-existen-en-la-empresa',
+    },
+    {
+      referencia:
+        'Prieto, E. (2023). Administración pública y privada: definición, diferencias, ventajas y desventajas.',
+      link:
+        'https://es.snhu.edu/blog/diferencias-entre-administracion-publica-y-privada#:~:text=%C2%BFQu%C3%A9%20es%20la%20administraci%C3%B3n%20privada,la%20gesti%C3%B3n%20del%20inter%C3%A9s%20privado',
+    },
+    {
+      referencia:
+        'Rodríguez-Toubes Muñiz, D. & Fraiz Brea, J. (2010). Gestión de crisis en el turismo: la cara emergente de la sostenibilidad. (pp. 51).',
+      link: 'https://www.redalyc.org/pdf/3887/388777676005.pdf',
+    },
+    {
+      referencia:
+        'Santos, D. (2020). Planeación estratégica: transforma metas en resultados.',
+      link:
+        'https://blog.hubspot.es/marketing/guia-planificacion-estrategica#elementos',
+    },
+    {
+      referencia:
+        'Telcel.com. (s.f.). ¿Cuáles son las etapas de un proceso administrativo dentro de la empresa?',
+      link:
+        'https://www.telcel.com/empresas/tendencias/notas/etapas-del-proceso-administrativo#:~:text=Las%20etapas%2C%20que%20son%3A%20la,para%20llegar%20a%20la%20meta.&text=Todo%20proceso%20administrativo%20trata%20de,de%20forma%20continua%20y%20din%C3%A1mica',
+    },
+    {
+      referencia: 'Unacademy. (s.f.). Coordinación.',
+      link:
+        'https://unacademy.com/content/cbse-class-11/study-material/business-studies/coordination/',
+    },
+    {
+      referencia:
+        'Universidad Nacional Autónoma de México-UNAM. (2016). Capítulo 2. Administración Pública. Biblioteca Jurídico virtual del instituto de investigaciones jurídicas de la UMAN.',
+      link: '',
+    },
+    {
+      referencia:
+        'Zuloaga E. PAED/DESCO y el libro Hagamos un plan local de acción por la infancia, UNICEF. (s.f.). Plan de trabajo. Tomado de Plataforma del Estado Peruano.',
+      link: '',
     },
   ],
   creditos: [

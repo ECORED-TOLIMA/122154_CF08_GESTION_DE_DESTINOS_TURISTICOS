@@ -495,7 +495,7 @@
               ul.lista-ul
                 li
                   i.fas.fa-angle-right
-                  | Proceso para comprometer a dos o más personas para trabajar juntas de manera estructurada con el propósito de alcanzar una meta o una serie de metas específicas
+                  | Proceso para comprometer a dos o más personas para trabajar juntas de manera estructurada con el propósito de alcanzar una meta o una serie de metas específicas.
             .tarjeta.color-primario.tarjeta--BG03.p-3(x="20%" y="50%" numero="+")
               ul.lista-ul
                 li

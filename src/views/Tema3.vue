@@ -60,7 +60,7 @@
           LineaTiempoD.color-acento-botones
             p.text-small(numero="1" titulo="Identificación de grupos de interés") Definido previamente en el mapa de actores.
             p.text-small(numero="2" titulo="Definición de temas a tratar") Se priorizan temas relacionados a las propuestas o proyectos, los compromisos pactados y opiniones de los involucrados.
-            p.text-small(numero="3" titulo="Operativa") Especifica las formas de atención para el logro de objetivos estratégicos
+            p.text-small(numero="3" titulo="Determinación de objetivos de relacionamiento") Especifica las formas de atención para el logro de objetivos estratégicos. 
             p.text-small(numero="4" titulo="Evaluación de procesos actuales") Realiza seguimiento y medición a los procesos existentes. 
             p.text-small(numero="5" titulo="Verificación de recursos para proceso de relacionamiento") Contar con la motivación e interés por parte de cada involucrado, además de recursos técnicos y humanos. 
             p.text-small(numero="6" titulo="Desarrollo de habilidades para el relacionamiento") Capacitar de forma constante en habilidades y destrezas al grupo de interés que participa en los procesos. 
@@ -407,7 +407,7 @@
                     p Turistas
                     p Comunidad local
                     p Negocios turísticos
-                    
+
       .tarjeta.tarjeta--BG05.p-4.mb-3
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-12
