@@ -22,7 +22,7 @@
           figure
             img(src='@/assets/curso/temas/tema1/img2.png', alt='Texto que describa la imagen')
         .col-lg-8
-          p El termino de administración está relacionada a la sociedad y su búsqueda por organizar eficientemente las empresas, organizaciones e incluso las comunidades, a través del esfuerzo humano sobre los recursos disponibles para alcanzar un objetivo. 
+          p El termino de administración está relacionado a la sociedad y su búsqueda por organizar eficientemente las empresas, organizaciones e incluso las comunidades, a través del esfuerzo humano sobre los recursos disponibles para alcanzar un objetivo. 
           p Se entiende a la administración como:
           .row.justify-content-center
             .col-lg-6.mb-4(data-aos="fade-left")
@@ -212,7 +212,7 @@
                   td  #[b Administración Científica de Frederick Taylor]
                   td 
                     p.text-left Se centra en analizar los flujos de trabajo para encontrar la mejor forma de realizar las tareas y maximizar la eficacia. 
-                    p Para encontrar el mejor método el estudio científico se denomina "estudio de tiempo y movimiento".
+                    p.text-left Para encontrar el mejor método el estudio científico se denomina "estudio de tiempo y movimiento".
                   td.text-left
                     p #[b De planeación:] sustituir en el trabajo el criterio individual del operario, la improvisación y la actuación empírico-práctica por los métodos basados en procedimientos científicos. Sustituir la improvisación por la ciencia, mediante la planeación del método. 
                     p #[b De la preparación:] seleccionar científicamente a los trabajadores de acuerdo con sus aptitudes y prepararlos, entrenarlos para producir más y mejor, de acuerdo con el método planeado. 
@@ -444,7 +444,7 @@
 
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
-          p Con base en las funciones, se determinan los roles de la administración en general, contemplando como aspectos claves, un conjunto de habilidades y capacidades junto con un ámbito de control; tal como se puede apreciar a continuación:
+          p Con base en las funciones, se determinan los roles de la administración en general, considerado como aspectos clave, un conjunto de habilidades y capacidades, junto con un ámbito de control; tal como se puede apreciar a continuación:
 
       .titulo-sexto.color-acento-contenido.offset-1(data-aos="zoom-in")
         h5 Figura 1.
@@ -740,11 +740,11 @@
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-7
           LineaTiempoD.color-acento-botones
-            p.text-small(numero="1" titulo="Estratégica") Es realizada por los directivos de una organización y se lleva a largo plazo. Nace del análisis de factores externos e internos y como estos afectan los objetivos proyectados.
-            p.text-small(numero="2" titulo="Táctica o funcional") Se diseñan para ejecutar el plan estratégico desde las áreas funcionales de la organización. Se lleva al corto plazo para medir con prontitud los resultados.
-            p.text-small(numero="3" titulo="Operativa") Se organizan los recursos a emplear para dar cumplimiento a los lineamientos tácticos. Se ejecuta a través de proyectos por áreas con plazos y tiempos.
-            p.text-small(numero="4" titulo="Interactiva") Consisten en diseñar soluciones a contingencias que pueden surgir, se proyectan recursos necesarios para cumplir las futuras acciones.
-            p.text-small(numero="5" titulo="Normativa") Conjunto de reglas que regulan el funcionamiento de las acciones de un proyecto u organización y que son importantes porque facilitan el desempeño, compromisos y responsabilidades.
+            p.text-normal(numero="1" titulo="Estratégica") Es realizada por los directivos de una organización y se lleva a largo plazo. Nace del análisis de factores externos e internos y como estos afectan los objetivos proyectados.
+            p.text-normal(numero="2" titulo="Táctica o funcional") Se diseñan para ejecutar el plan estratégico desde las áreas funcionales de la organización. Se lleva al corto plazo para medir con prontitud los resultados.
+            p.text-normal(numero="3" titulo="Operativa") Se organizan los recursos a emplear para dar cumplimiento a los lineamientos tácticos. Se ejecuta a través de proyectos por áreas con plazos y tiempos.
+            p.text-normal(numero="4" titulo="Interactiva") Consisten en diseñar soluciones a contingencias que pueden surgir, se proyectan recursos necesarios para cumplir las futuras acciones.
+            p.text-normal(numero="5" titulo="Normativa") Conjunto de reglas que regulan el funcionamiento de las acciones de un proyecto u organización y que son importantes porque facilitan el desempeño, compromisos y responsabilidades.
         .col-lg-3
           figure
             img(src='@/assets/curso/temas/tema1/img29.png', alt='Texto que describa la imagen')

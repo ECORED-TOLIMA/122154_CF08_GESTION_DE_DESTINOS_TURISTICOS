@@ -26,7 +26,7 @@ export default {
         {
           id: 1,
           texto:
-            'La administración turística se ocupa únicamente de la promoción y marketing de los destinos turísticos.',
+            'La administración turística se ocupa únicamente de la promoción y <em>marketing</em> de los destinos turísticos.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [

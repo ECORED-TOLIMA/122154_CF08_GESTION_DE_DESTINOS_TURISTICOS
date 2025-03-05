@@ -83,7 +83,7 @@
       .col-lg-12
         p La gobernanza es la actuación de relaciones políticas entre diversos actores involucrados, en el proceso de tomar decisiones sobre asuntos de interés público. Este proceso se caracteriza como un juego de poder en el que la competencia y la cooperación coexisten y puede incluir instituciones formales e informales. La forma e interacción entre los actores refleja la calidad del sistema y afecta a cada uno de sus componentes y al sistema en su totalidad. Por lo tanto, la gobernanza se refiere a los procesos de gobierno, instituciones, procedimientos y prácticas para regular los asuntos de la sociedad. La buena gobernanza incluye la evaluación del proceso de gobernar. 
     
-    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5
+    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/tema2/img5.png')})`}"
       )
@@ -174,22 +174,22 @@
                   ul.lista-ul
                     li
                       i.fas.fa-angle-right
-                      | Paso 1. Definir las áreas claves de desarrollo del destino.
+                      | Paso 1. Definir las áreas clave de desarrollo del destino.
                     li
                       i.fas.fa-angle-right
-                      | Paso 2. Seleccionar las áreas claves de desarrollo del destino.
+                      | Paso 2. Seleccionar las áreas clave de desarrollo del destino.
               .row.justify-content-center.align-items-center
                 .col-lg-12
                   figure
                     img(src='@/assets/curso/temas/tema2/img10.png', alt="Imagen decorativa")
-          .row.justify-content-center(numero="2" titulo="Fase II. Identificación de los factores que impactan en las áreas claves seleccionadas")
+          .row.justify-content-center(numero="2" titulo="Fase II. Identificación de los factores que impactan en las áreas clave seleccionadas")
             .col-lg-12.order-lg-1.order-2
               .row.justify-content-center.align-items-center.tarjeta--BG03.p-2
                 .col-lg-12
                   ul.lista-ul
                     li
                       i.fas.fa-angle-right
-                      | Paso 3. Determinar los factores externos e internos que influyen en las áreas claves seleccionadas.
+                      | Paso 3. Determinar los factores externos e internos que influyen en las áreas clave seleccionadas.
                     li
                       i.fas.fa-angle-right
                       | Paso 4. Clasificar los factores hacia atrás-adelante según su impacto.
@@ -231,12 +231,14 @@
         h2 2.3	Participación y roles de los actores en la gestión de destinos
          
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-5
+        .col-lg-4.col-md-6
           figure
             img(src='@/assets/curso/temas/tema2/img14.png', alt='')
-        .col-lg-6
-          p Es crucial que todos los actores, especialmente la comunidad local, se involucren en la planificación del turismo sostenible. Los actores, que son grupos o personas con un interés en las decisiones tomadas, deben participar en todas las fases de la planificación, esto incluye a miembros de la comunidad local, gobierno, ONG, la industria del turismo, turistas y otros grupos. Es importante establecer canales de comunicación entre los actores para promover la cooperación. Se parte del mapa de actores que, como herramienta, visualiza el interés de participación según áreas de labor y disponibilidad de tiempo en acciones, que, desde el inicio están marcadas por la recolección y sistematización de información, para identificar los recursos y el uso del espacio que habitan. Seguido por acciones de ejecución y medición que posibilitan la detección de brechas, dificultades y oportunidades de mejora.
-          p El articular la participación hace necesario del empleo de un proceso comunitario que revela unos pasos donde impera la confianza, la construcción participativa y la realidad comunitaria, como esencias de búsqueda, a través del turismo en soluciones dentro del despliegue social y grupal; tal como se relacionan a continuación:
+        .col-lg-6.col-md-6
+          p Es crucial que todos los actores, especialmente la comunidad local, se involucren en la planificación del turismo sostenible. Los actores, que son grupos o personas con un interés en las decisiones tomadas, deben participar en todas las fases de la planificación, esto incluye a miembros de la comunidad local, gobierno, ONG, la industria del turismo, turistas y otros grupos.
+          P Es importante establecer canales de comunicación entre los actores para promover la cooperación. Se parte del mapa de actores que, como herramienta, visualiza el interés de participación según áreas de labor y disponibilidad de tiempo en acciones, que, desde el inicio están marcadas por la recolección y sistematización de información, para identificar los recursos y el uso del espacio que habitan. Seguido por acciones de ejecución y medición que posibilitan la detección de brechas, dificultades y oportunidades de mejora.
+    .cajon.color-primario.p-4.mb-4
+      p El articular la participación hace necesario del empleo de un proceso comunitario que revela unos pasos donde impera la confianza, la construcción participativa y la realidad comunitaria, como esencias de búsqueda, a través del turismo en soluciones dentro del despliegue social y grupal; tal como se relacionan a continuación:
     .titulo-sexto.color-acento-contenido.offset-1(data-aos="zoom-in")
       h5 Figura 7.
       span  #[i Proceso comunitario ]

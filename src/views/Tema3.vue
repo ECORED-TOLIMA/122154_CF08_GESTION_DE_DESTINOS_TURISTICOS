@@ -58,64 +58,68 @@
             img(src='@/assets/curso/temas/tema3/img4.svg', alt='Texto que describa la imagen')
         .col-lg-7
           LineaTiempoD.color-acento-botones
-            p.text-small(numero="1" titulo="Identificación de grupos de interés") Definido previamente en el mapa de actores.
-            p.text-small(numero="2" titulo="Definición de temas a tratar") Se priorizan temas relacionados a las propuestas o proyectos, los compromisos pactados y opiniones de los involucrados.
-            p.text-small(numero="3" titulo="Determinación de objetivos de relacionamiento") Especifica las formas de atención para el logro de objetivos estratégicos. 
-            p.text-small(numero="4" titulo="Evaluación de procesos actuales") Realiza seguimiento y medición a los procesos existentes. 
-            p.text-small(numero="5" titulo="Verificación de recursos para proceso de relacionamiento") Contar con la motivación e interés por parte de cada involucrado, además de recursos técnicos y humanos. 
-            p.text-small(numero="6" titulo="Desarrollo de habilidades para el relacionamiento") Capacitar de forma constante en habilidades y destrezas al grupo de interés que participa en los procesos. 
-            p.text-small(numero="7" titulo="Identificación de métodos de relacionamiento") Se identifica el método de relacionamiento más adecuado dependiendo el grupo de interés.
-            p.text-small(numero="8" titulo="Diseño de proceso de relacionamiento") Con base en el método más adecuado se diseña la forma en la que se va a abordar el mecanismo. 
-            p.text-small(numero="9" titulo="Implementación del proceso") Colocar en práctica el proceso diseñado.
+            p.text-normal(numero="1" titulo="Identificación de grupos de interés") Definido previamente en el mapa de actores.
+            p.text-normal(numero="2" titulo="Definición de temas a tratar") Se priorizan temas relacionados a las propuestas o proyectos, los compromisos pactados y opiniones de los involucrados.
+            p.text-normal(numero="3" titulo="Determinación de objetivos de relacionamiento") Especifica las formas de atención para el logro de objetivos estratégicos. 
+            p.text-normal(numero="4" titulo="Evaluación de procesos actuales") Realiza seguimiento y medición a los procesos existentes. 
+            p.text-normal(numero="5" titulo="Verificación de recursos para proceso de relacionamiento") Contar con la motivación e interés por parte de cada involucrado, además de recursos técnicos y humanos. 
+            p.text-normal(numero="6" titulo="Desarrollo de habilidades para el relacionamiento") Capacitar de forma constante en habilidades y destrezas al grupo de interés que participa en los procesos. 
+            p.text-normal(numero="7" titulo="Identificación de métodos de relacionamiento") Se identifica el método de relacionamiento más adecuado dependiendo el grupo de interés.
+            p.text-normal(numero="8" titulo="Diseño de proceso de relacionamiento") Con base en el método más adecuado se diseña la forma en la que se va a abordar el mecanismo. 
+            p.text-normal(numero="9" titulo="Implementación del proceso") Colocar en práctica el proceso diseñado.
         
       separador
       #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 3.3	Sistemas de trabajo en equipo y colaboración
-      .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
-        p En el desarrollo de la coordinación turística, se requiere poner en práctica habilidades de trabajo en equipo y trabajo colaborativo, que fomente entre los actores del turismo una cultura y un entorno de trabajo saludable. La sana convivencia propicia que los equipos conformados por áreas de trabajo, pueden alcanzar sus metas personales y empresariales mediante el uso de habilidades poderosas reflejadas en un trabajo eficaz. .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
-        p Trabajar en equipo de manera colaborativa puede promover la innovación, aumentar la satisfacción laboral, encontrar soluciones para resolver problemas y desarrollar excelentes habilidades sociales. Es por ello, importante considerar las siguientes precisiones conceptuales:
-  
-      h5 Tabla 4.
-        span  #[i Conceptos ]
-        .row.mb-5
-          .col-lg-12
-            .tabla-b.color-acento-contenido.mb-5
-              table(alt="Tabla que relaciona las teorías de la administración, la cual explica en qué consiste casa una y asocia sus respectivos principios.")
-                caption Nota. Ajustado de Equipo Editorial de Indeed (2023)
-                thead.bghead
-                  tr
-                    th 
-                    th Trabajo colaborativo
-                    th Trabajo en equipo
-                tbody
-                  tr
-                    td  #[b ¿Qué es?]
-                    td 
-                      p.text-left La colaboración se manifiesta y ocurre cuando se trabaja con una o más personas que tienen diferentes habilidades para producir algo.
-  
-                    td
-                      p.text-left La colaboración es un intercambio de habilidades aprendidas que pueden mejorar la productividad, resolver problemas, fomentar relaciones saludables y crear trabajo en equipo.
-                  tr
-                    td
-                      p  #[b Importancia]
-                    td.text-left
-                      p Fomenta la innovación, la creatividad y la búsqueda de nuevas soluciones, genera un aprendizaje continuo y desarrollo de habilidades para un mundo globalizado y cambiante. 
-  
-                    td.text-left
-                      p Fomenta los mayores niveles de responsabilidad, el espíritu colaborativo y la identificación de las personas con objetivos trazados para el logro común de intereses y esfuerzos. Se aplica el ser honesto, respetuoso y la escucha activa.                  
+      .row.justify-content-center.align-items-center.mb-3
+        .col-lg-12
+          p En el desarrollo de la coordinación turística, se requiere poner en práctica habilidades de trabajo en equipo y trabajo colaborativo, que fomente entre los actores del turismo una cultura y un entorno de trabajo saludable. La sana convivencia propicia que los equipos conformados por áreas de trabajo, pueden alcanzar sus metas personales y empresariales mediante el uso de habilidades poderosas reflejadas en un trabajo eficaz.
+      
+      .row.justify-content-center.align-items-center.mb-3
+        .col-lg-12
+          p Trabajar en equipo de manera colaborativa puede promover la innovación, aumentar la satisfacción laboral, encontrar soluciones para resolver problemas y desarrollar excelentes habilidades sociales. Es por ello, importante considerar las siguientes precisiones conceptuales:
+      
+      .titulo-sexto.color-acento-contenido.offset-0(data-aos="zoom-in")
+        h5 Tabla 4.
+        span  #[i Conceptos]
+
+      .row.justify-content-center.align-items-center.mb-3
+        .col-lg-12
+          .tabla-b.color-acento-contenido
+            table(alt="Tabla que relaciona las teorías de la administración, la cual explica en qué consiste casa una y asocia sus respectivos principios.")
+              caption Nota. Ajustado de Equipo Editorial de Indeed (2023)
+              thead.bghead
+                tr
+                  th 
+                  th Trabajo colaborativo
+                  th Trabajo en equipo
+              tbody
+                tr
+                  td  #[b ¿Qué es?]
+                  td 
+                    p.text-left La colaboración se manifiesta y ocurre cuando se trabaja con una o más personas que tienen diferentes habilidades para producir algo.
+
+                  td
+                    p.text-left La colaboración es un intercambio de habilidades aprendidas que pueden mejorar la productividad, resolver problemas, fomentar relaciones saludables y crear trabajo en equipo.
+                tr
+                  td
+                    p  #[b Importancia]
+                  td.text-left
+                    p Fomenta la innovación, la creatividad y la búsqueda de nuevas soluciones, genera un aprendizaje continuo y desarrollo de habilidades para un mundo globalizado y cambiante. 
+
+                  td.text-left
+                    p Fomenta los mayores niveles de responsabilidad, el espíritu colaborativo y la identificación de las personas con objetivos trazados para el logro común de intereses y esfuerzos. Se aplica el ser honesto, respetuoso y la escucha activa.                  
+                  
+                tr
+                  td
+                    p  #[b Beneficios]
+                  td.text-left
+                    p El trabajo colaborativo potencia la creatividad, aumenta la productividad y fortalece los equipos. 
+                    p Fomenta un ambiente propicio para generar ideas innovadoras, resolver problemas y tomar decisiones conjuntas. 
+
+                  td.text-left
+                    p El trabajo en equipo aumenta la productividad, permite que cada uno aproveche sus habilidades para alcanzar objetivos comunes de manera efectiva. La responsabilidad mutua en el equipo genera un ambiente más motivador.
                     
-                  tr
-                    td
-                      p  #[b Beneficios]
-                    td.text-left
-                      p El trabajo colaborativo potencia la creatividad, aumenta la productividad y fortalece los equipos. 
-                      p Fomenta un ambiente propicio para generar ideas innovadoras, resolver problemas y tomar decisiones conjuntas. 
-  
-                    td.text-left
-                      p El trabajo en equipo aumenta la productividad, permite que cada uno aproveche sus habilidades para alcanzar objetivos comunes de manera efectiva. La responsabilidad mutua en el equipo genera un ambiente más motivador.
-                      
   
               
                     
@@ -124,14 +128,14 @@
       separador
       #t_3_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 3.4	Características de la toma de decisiones en comités de trabajo
-        .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
-        p La coordinación turística para alinearse con el desarrollo sostenible en los territorios y orientar acciones hacia un turismo sustentable, requiere constantemente de la toma de decisiones, por parte del grupo de actores involucrados en los procesos de planificación turística y que son definidos por comités de trabajo. El protagonismo de este método se ve reflejado en el monitoreo de impactos, resolución de problemas y empoderamiento de las comunidades, al ser parte del aprovechamiento de oportunidades que ofrece el turismo en las regiones, maximizando los beneficios del progreso y la gestión turística.
-        p Es de tener claro que el proceso de toma de decisiones en la coordinación de acciones turísticas, se activa cuando se presentan situaciones que requieren ser atendidas para encontrarles la mejor solución posible para los involucrados. Destacando:
-  
-        .titulo-sexto.color-acento-contenido.offset-1(data-aos="zoom-in")
-          h5 Figura 9.
-          span  Proceso toma de decisiones
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-12
+          p La coordinación turística para alinearse con el desarrollo sostenible en los territorios y orientar acciones hacia un turismo sustentable, requiere constantemente de la toma de decisiones, por parte del grupo de actores involucrados en los procesos de planificación turística y que son definidos por comités de trabajo. El protagonismo de este método se ve reflejado en el monitoreo de impactos, resolución de problemas y empoderamiento de las comunidades, al ser parte del aprovechamiento de oportunidades que ofrece el turismo en las regiones, maximizando los beneficios del progreso y la gestión turística.
+          p Es de tener claro que el proceso de toma de decisiones en la coordinación de acciones turísticas, se activa cuando se presentan situaciones que requieren ser atendidas para encontrarles la mejor solución posible para los involucrados. Destacando:
+    
+      .titulo-sexto.color-acento-contenido.offset-1(data-aos="zoom-in")
+        h5 Figura 9.
+        span  Proceso toma de decisiones
     
       .row.justify-content-center.mb-4
         .col-md-10.desktop(data-aos="zoom-in")
@@ -378,7 +382,8 @@
         .col-lg-12
           p  Otro aspecto a tener en cuenta en la resolución de conflictos, es la gestión de crisis que se presenta en la coordinación turística y sus involucrados, esto debido a las constantes amenazas que se presentan en los destinos turísticos. Encontrando, por ejemplo:
   
-      h5 Tabla 5.
+      .titulo-sexto.color-acento-contenido.offset-0(data-aos="zoom-in")
+        h5 Tabla 5.
         span  #[i Amenazas de las crisis de los implicados ]
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
