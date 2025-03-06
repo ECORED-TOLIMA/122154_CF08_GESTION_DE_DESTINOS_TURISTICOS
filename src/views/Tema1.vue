@@ -7,25 +7,27 @@
           span 1
         h1 Administración
     
-      .row.justify-content-center.align-items-center
-        .col-lg-12
+      .row.justify-content-center.align-items-centerr.mb-4
+        .col-lg-12(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/tema1/img1.png', alt='Texto que describa la imagen')
-          p.mt-4 A medida que los grupos sociales crecen y se inicia una dependencia desde el esfuerzo grupal, surge administración como la encargada de organizar y dirigir actividades individuales, que aportan a las acciones colectivas, alcanzando metas en tiempos programados y pactados. A la par, se presenta la necesidad de convivencia, labor de grupo y disciplina que demuestran productividad y eficiencia en el manejo de recursos para alcanzar un buen nivel de competitividad. 
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-12(data-aos="fade-left")
+          p A medida que los grupos sociales crecen y se inicia una dependencia desde el esfuerzo grupal, surge administración como la encargada de organizar y dirigir actividades individuales, que aportan a las acciones colectivas, alcanzando metas en tiempos programados y pactados. A la par, se presenta la necesidad de convivencia, labor de grupo y disciplina que demuestran productividad y eficiencia en el manejo de recursos para alcanzar un buen nivel de competitividad. 
     
       separador
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 1.1	Conceptos clave en la administración turística
       
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-4
+        .col-lg-4.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/tema1/img2.png', alt='Texto que describa la imagen')
-        .col-lg-8
+        .col-lg-8.col-md-6.col-sm-8.mb-4(data-aos="fade-left")
           p El termino de administración está relacionado a la sociedad y su búsqueda por organizar eficientemente las empresas, organizaciones e incluso las comunidades, a través del esfuerzo humano sobre los recursos disponibles para alcanzar un objetivo. 
           p Se entiende a la administración como:
           .row.justify-content-center
-            .col-lg-6.mb-4(data-aos="fade-left")
+            .col-lg-6.mb-4.col-md-6.col-sm-8.mb-4(data-aos="fade-left")
               .tarjeta-avatar.h-100
                 img(src='@/assets/curso/temas/tema1/img3.svg' alt='AvatarTop')
                 .tarjeta.color-primario.tarjeta.color5.w-100
@@ -40,14 +42,14 @@
                     h4.text-center Koontz & Heinz (2004) 
                     p.text-center El proceso de diseñar y mantener un entorno en el que, trabajando en grupos, los individuos cumplan eficientemente objetivos específicos.
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           p A partir de estos conceptos, se puede expresar que la administración ha evolucionado a la par del ser humano y su necesidad de sobrevivir, requiriendo alcanzar metas con los recursos disponibles en el entorno, desarrollando destrezas y habilidades que le posibiliten definir su importancia, al proporcionar información relevante y oportuna que, al día de hoy, contribuyen en la gestión eficiente y toma de decisiones, para minimizar riesgos y proyectar oportunidades. 
           p De ahí, la relevancia de hacer el siguiente recorrido sobre su desarrollo en el tiempo, el cual se basa en lo expuesto por Broncano et al., (2022):
       .row.mb-4
         .col-lg-11
           LineaTiempoE.color-primario
             .row(titulo="Epoca primitiva" subtitulo="")
-              .col-lg-6.mb-4.mb-lg-0
+              .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
                 ul.lista-ul
                   li
                     i.fas.fa-angle-right
@@ -62,14 +64,14 @@
                     i.fas.fa-angle-right
                     | Sociedad de esfuerzos - incipiente administración.
 
-              .col-lg-6
+              .col-lg-6(data-aos="zoom-in")
                 figure
                   img(src='@/assets/curso/temas/tema1/img5.png', alt='Texto que describa la imagen')
             .row(titulo="Período agrícola" subtitulo="")
-              .col-lg-6
+              .col-lg-6.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
                 figure
                   img(src='@/assets/curso/temas/tema1/img6.png', alt='Texto que describa la imagen')
-              .col-lg-6.mb-4.mb-lg-0
+              .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
                 ul.lista-ul
                   li
                     i.fas.fa-angle-right
@@ -86,7 +88,7 @@
 
                   
             .row(titulo="Antigüedad grecolatina" subtitulo="")
-              .col-lg-6.mb-4.mb-lg-0
+              .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
                 ul.lista-ul
                   li
                     i.fas.fa-angle-right
@@ -100,14 +102,14 @@
 
                   
 
-              .col-lg-6
+              .col-lg-6(data-aos="zoom-in")
                 figure
                   img(src='@/assets/curso/temas/tema1/img7.png', alt='Texto que describa la imagen')
             .row(titulo="Época feudal" subtitulo="")
-              .col-lg-6
+              .col-lg-6.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
                 figure
                   img(src='@/assets/curso/temas/tema1/img8.png', alt='Texto que describa la imagen')
-              .col-lg-6.mb-4.mb-lg-0
+              .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
                 ul.lista-ul
                   li
                     i.fas.fa-angle-right
@@ -117,7 +119,7 @@
                     | El señor feudal ejerce el control sobre la producción del siervo.
                   
             .row(titulo="Crisis feudal" subtitulo="")
-              .col-lg-6.mb-4.mb-lg-0
+              .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
                 ul.lista-ul
                   li
                     i.fas.fa-angle-right
@@ -133,14 +135,14 @@
                     | Aparecen gremios que regulan las jornadas, salarios y condiciones de trabajo.
                   
 
-              .col-lg-6
+              .col-lg-6(data-aos="zoom-in")
                 figure
                   img(src='@/assets/curso/temas/tema1/img9.png', alt='Texto que describa la imagen')
             .row(titulo="Revolución industrial" subtitulo="")
-              .col-lg-6
+              .col-lg-6.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
                 figure
                   img(src='@/assets/curso/temas/tema1/img10.png', alt='Texto que describa la imagen')
-              .col-lg-6.mb-4.mb-lg-0
+              .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
                 ul.lista-ul
                   li
                     i.fas.fa-angle-right
@@ -156,7 +158,7 @@
                     | Período caracterizado por la explotación inhumana en el trabajo.
                   
             .row(titulo="Administración en el Siglo XX" subtitulo="")
-              .col-lg-6.mb-4.mb-lg-0
+              .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
                 ul.lista-ul
                   li
                     i.fas.fa-angle-right
@@ -172,14 +174,14 @@
                     | Imprescindible para cualquier organismo social.
                   
 
-              .col-lg-6
+              .col-lg-6.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
                 figure
                   img(src='@/assets/curso/temas/tema1/img11.png', alt='Texto que describa la imagen')
             .row(titulo="Administración en el Siglo XXI" subtitulo="")
-              .col-lg-6
+              .col-lg-6.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
                 figure
                   img(src='@/assets/curso/temas/tema1/img12.png', alt='Texto que describa la imagen')
-              .col-lg-6.mb-4.mb-lg-0
+              .col-lg-6.mb-4.mb-lg-0.col-md-6.col-sm-8.mb-4(data-aos="fade-left")
                 ul.lista-ul
                   li
                     i.fas.fa-angle-right
@@ -190,7 +192,7 @@
                   li
                     i.fas.fa-angle-right
                     | Implementa técnicas y herramientas innovadoras que permiten una gestión eficaz de recursos.
-      .row.justify-content-center.align-items-center.mb-4
+      .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
         .col-lg-12
           p La evolución de la administración en el tiempo, por la búsqueda de organización y gestión de recursos, ha permitido que sea estudiada como ciencia por parte de varias personas y organizaciones, presentando planteamientos en pro de un mejor desempeño reflejado en teorías, como se pueden reflejar continuación:
       
@@ -199,7 +201,7 @@
         span  #[i Teorías de la administración]
       .row.mb-4
         .col-lg-12
-          .tabla-b.color-acento-contenido.mb-4
+          .tabla-b.color-acento-contenido.mb-4(data-aos="fade-left")
             table(alt="Tabla que relaciona las teorías de la administración, la cual explica en qué consiste casa una y asocia sus respectivos principios.")
               caption Nota. Ajustado de Gómez (s.f.). Quien cita a Bento (2007); Chiavenato (2000); Gordon (1996)
               thead.bghead
@@ -443,7 +445,7 @@
           p.text-center Es asegurar que las tareas se llevan a cabo y conforme a lo planificado.
 
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           p Con base en las funciones, se determinan los roles de la administración en general, considerado como aspectos clave, un conjunto de habilidades y capacidades, junto con un ámbito de control; tal como se puede apreciar a continuación:
 
       .titulo-sexto.color-acento-contenido.offset-1(data-aos="zoom-in")
@@ -464,19 +466,19 @@
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 1.2	Fases y etapas de la administración en concertación de acciones turísticas
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-3
+        .col-lg-3.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/tema1/img23.svg', alt='Imagen decorativa')
 
-        .col-lg-9
+        .col-lg-9(data-aos="fade-left")
           p La administración para dar cumplimiento con los objetivos planteados, requiere aplicar de forma secuencial, una serie de pasos hasta llegar al logro de metas de manera eficiente y que a su vez conforman un entendimiento integral entre ellas. Estos pasos se reconocen como proceso administrativo y se trata de una relación entre las fases que fluyen de forma continua y dinámica. Es de tener en cuenta, la fase mecánica describe el funcionamiento del proceso y la fase dinámica describe el hecho mismo de manejar u operar. También, el proceso administrativo posee unas etapas que reflejan la secuencia de la acción, estas son planificación, organización, implementación o dirección y control.
           p A continuación, se detalla información sobre las fases y las etapas:
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-10.movil
+        .col-lg-10.movil(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/tema1/img24_1.svg', alt='Texto que describa la imagen')
             figcaption Ajustado de telcel.com (s.f.)
-        .col-lg-10.desktop
+        .col-lg-10.desktop(data-aos="zoom-in")
           ImagenInfografica.color-acento-botones.mb-4
             template(v-slot:imagen)
               figure
@@ -510,7 +512,7 @@
                   i.fas.fa-angle-right
                   | Dirigir implica mandar, influir y motivar a los empleados para que realicen tareas esenciales.
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           p El sector del turismo requiere para el manejo de las actividades turísticas en un territorio, la aplicación de la administración para el logro de los objetivos proyectados dentro del desarrollo turístico. El éxito depende de la capacidad de coordinar eficientemente el funcionamiento de los involucrados en la cadena de valor, con los cuales se fluye estratégicamente, hasta fortalecer una oferta turística de calidad para los turistas. La gestión de esas actividades requiere por parte de la administración una coherencia secuencial de organización, dada desde el proceso administrativo, con el objetivo de planificar los destinos turísticos hasta alcanzar ser parte de la oferta turística deseada.
           p Por lo anterior y lo relacionado con las etapas administrativas, es preciso relacionar lo siguiente:
       
@@ -639,7 +641,7 @@
         h2 1.3	Tipos de administración aplicada a destinos turísticos
 
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           p La administración se clasifica para ordenar sus elementos con base en criterios comunes que se poseen entre ellos. Este ejercicio establece semejanzas y diferencias que facilitan la ubicación por rasgos específicos, definiéndolos por grupos.
           p Dentro de los elementos de la administración se encuentran similitudes entre el sector público y privado, pero varían los estilos administrativos al interior de su funcionamiento. A continuación, una relación al respecto:
 
@@ -699,10 +701,10 @@
                     p Se caracteriza por operar en territorios específicos que trascienden fronteras por la intervención del estado según el tamaño y ámbito en el cual se proyecta.
                     p Dependiendo del proyecto se puede extender de territorios locales hasta internacionales.
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           p Complementando la información anterior, a continuación, se relaciona la ejemplificación de cada una de las administraciones ya explicadas: 
       
-      .tarjeta.tarjeta--gris.tarjeta--BG04.p-4.mb-4
+      .tarjeta.tarjeta--gris.tarjeta--BG04.p-4.mb-4(data-aos="zoom-in")
         PasosB.color-acento-contenido
           .row(titulo="")
             .col-md-12.mb-4.mb-md-0
@@ -727,38 +729,38 @@
         h2 1.4	Planificación estratégica en la administración
     
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-5
+        .col-lg-5.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/tema1/img28.png', alt='Texto que describa la imagen')
-        .col-lg-7
+        .col-lg-7(data-aos="fade-left")
           p El desarrollo de los destinos turísticos, requiere como se había mencionado previamente, de la administración y de su conjunto de herramientas y mecanismos que hacen posible que fluyan de forma dinámica y sostenible. Como parte de la aplicación del proceso administrativo y teniendo en cuenta la tipología de la administración, se hace necesario emplear la planeación, para establecer estrategias que forjen el camino hacia el logro de objetivos preestablecidos.
           .cajon.color-secundario.p-4.mb-4
             p Entendiendo que la planeación es trazar el curso de una acción a seguir y que este, requiere de la claridad en los pasos operacionales secuenciales, definidos con tiempos determinados, bajo parámetros y lineamientos establecidos, y con unos recursos específicos para ello. Es decir, preparar un conjunto de decisiones enfocadas al logro de objetivos que se plasman en un plan con características ajustables entre el medio y el fin. 
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           p Ante esto, se deben considerar los siguientes tipos de planeación que contribuyen a establecer de donde surgen las estrategias y la ejecución de acciones para alcanzarlas: 
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-7
+        .col-lg-7(data-aos="fade-left")
           LineaTiempoD.color-acento-botones
             p.text-normal(numero="1" titulo="Estratégica") Es realizada por los directivos de una organización y se lleva a largo plazo. Nace del análisis de factores externos e internos y como estos afectan los objetivos proyectados.
             p.text-normal(numero="2" titulo="Táctica o funcional") Se diseñan para ejecutar el plan estratégico desde las áreas funcionales de la organización. Se lleva al corto plazo para medir con prontitud los resultados.
             p.text-normal(numero="3" titulo="Operativa") Se organizan los recursos a emplear para dar cumplimiento a los lineamientos tácticos. Se ejecuta a través de proyectos por áreas con plazos y tiempos.
             p.text-normal(numero="4" titulo="Interactiva") Consisten en diseñar soluciones a contingencias que pueden surgir, se proyectan recursos necesarios para cumplir las futuras acciones.
             p.text-normal(numero="5" titulo="Normativa") Conjunto de reglas que regulan el funcionamiento de las acciones de un proyecto u organización y que son importantes porque facilitan el desempeño, compromisos y responsabilidades.
-        .col-lg-3
+        .col-lg-3.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/tema1/img29.png', alt='Texto que describa la imagen')
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           .cajon.color-primario.p-4
             .row.justify-content-center.align-items-center
-              .col-lg-2
+              .col-lg-2.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
                 figure
                   img(src='@/assets/curso/temas/tema1/img30.svg', alt='Texto que describa la imagen')
-              .col-lg-10
+              .col-lg-10(data-aos="fade-left")
                 p Para el diseño de los planes sólidos y equilibrados se requiere aprovechar los principios de la planeación administrativa como guía que lleve al logro de objetivos trazados.
   
-      .tarjeta.tarjeta--gris.tarjeta--BG04.p-4.mb-4
+      .tarjeta.tarjeta--gris.tarjeta--BG04.p-4.mb-4(data-aos="zoom-in")
         PasosB.color-acento-contenido
           .row(titulo="")
             .col-md-12.mb-4.mb-md-0
@@ -781,10 +783,10 @@
     
       .tarjeta.tarjeta--BG05.p-4.mb-4
         .row.justify-content-center.align-items-center.mb-4
-          .col-lg-11
+          .col-lg-11(data-aos="fade-left")
             p Empleando los elementos, características y principios de la administración de manera articulada, se define la planeación estratégica, como el proceso manejado por las personas u organización en la toma de decisiones, después de evaluar una situación a la cual está expuesto el grupo de personas, empresa, entidad o para este caso, un destino turístico. Con ella, se anticipa el direccionamiento de las acciones de forma estratégica. 
         .row.justify-content-center.align-items-center.mb-4
-          .col-lg-6
+          .col-lg-6(data-aos="fade-left")
             p Es aquí en donde se presenta la relación entre lo planeado y lo ejecutado, surgiendo dentro del proceso, el diseño de un plan para el logro de los objetivos estratégicos propuestos y que son alcanzados a lo largo de la ejecución de las acciones proyectadas, a través de unos pasos:
             .cajon.color-primario.p-3.mb-4
               .row.justify-content-center.align-items-center
@@ -802,7 +804,7 @@
                       | Gestionar el desempeño una vez que el plan está en marcha.
             p El instrumento de planeación, es denominado plan de trabajo y requiere de la concertación de los actores turísticos involucrados para que obtenga un carácter dinámico y se adecue al contexto social, espacial y temporal. Con base en ello, se plantean estrategias que propenden por la solución a problemáticas territoriales y sobre la cual, se ejercen actividades de mejora o transformación. 
             p Al respecto, estos son los tipos de planes de trabajo:
-          .col-lg-3
+          .col-lg-3(data-aos="zoom-in")
             figure
               img(src='@/assets/curso/temas/tema1/img34.png', alt='Texto que describa la imagen')
 
@@ -928,39 +930,40 @@
             img(src='@/assets/curso/temas/tema1/img40_1.svg', alt='Figura 2 que relaciona cuáles son los pasos que se deben seguir, si se desea llevar a cabo un plan de trabajo.')
             figcaption Nota. Personio.es (s.f.).
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           p Uno de los componentes del plan de trabajo, que es transversal a la ejecución del mismo, es el tiempo. Este requiere del apoyo gráfico en donde se reflejan las actividades de forma secuencial, con la finalidad de identificar y comprobar las acciones a realizar. El esquema es denominado cronograma de actividades y es una herramienta que apoya el plan de trabajo como ruta de acciones o tareas a realizar. 
           p Al respecto, a continuación, se describen los tipos de cronograma de actividades que pueden utilizarse:
+
 
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-10
           PasosA.color-acento-contenido.mb-4(tipo="n")
             .row(titulo="")
-              .col-md-6.mb-4.mb-md-0
+              .col-md-6.mb-4.mb-md-0(data-aos="fade-left")
                 h4 Diagrama de Gantt
                 p Se representa como gráfico de barras horizontal, en donde cada una es una actividad o tarea y su duración depende de la longitud de la barra.
-              .col-md-6
+              .col-md-6(data-aos="zoom-in")
                 figure
                   img(src='@/assets/curso/temas/tema1/img41.png', alt='Figura decorativa')
             .row(titulo="")
-              .col-md-6
+              .col-md-6.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
                 figure
                   img(src='@/assets/curso/temas/tema1/img42.png', alt='Figura decorativa')
-              .col-md-6.mb-4.mb-md-0
+              .col-md-6.mb-4.mb-md-0(data-aos="fade-left")
                 h4 Diagrama de Pert
                 p Contribuye en la visualización de las tareas de forma independiente y sirve para determinar la ruta crítica, estimar recursos y tiempo.
             .row(titulo="")
-              .col-md-6.mb-4.mb-md-0
+              .col-md-6.mb-4.mb-md-0(data-aos="fade-left")
                 h4 Cronograma de Hitos
                 p Se representa como gráfico horizontal en donde muestra las etapas del proyecto y en donde cada hito es un control al momento de finalizar cada etapa.
-              .col-md-6
+              .col-md-6(data-aos="zoom-in")
                 figure
                   img(src='@/assets/curso/temas/tema1/img43.png', alt='Figura decorativa')
             .row(titulo="")
-              .col-md-6
+              .col-md-6.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
                 figure
                   img(src='@/assets/curso/temas/tema1/img44.png', alt='Figura decorativa')
-              .col-md-6.mb-4.mb-md-0
+              .col-md-6.mb-4.mb-md-0(data-aos="fade-left")
                 h4 Cronograma de actividades de trabajo
                 p Es el tipo de programa que emplea herramienta digital para organizar el tiempo, es decir que contribuye a identificar la disponibilidad de tiempo de cada actor o involucrado en el proyecto.
 

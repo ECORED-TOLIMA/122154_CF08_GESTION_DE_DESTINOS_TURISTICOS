@@ -7,14 +7,14 @@
           span 3
         h1 Coordinación turística
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-5
+        .col-lg-5.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/tema3/img1.png', alt='Texto que describa la imagen')
-        .col-lg-7
+        .col-lg-7(data-aos="fade-left")
           p El turismo como actividad económica, ha conectado a las comunidades ubicadas en regiones remotas de forma organizada, para compartir sus saberes sociales, culturales y tradicionales, ante los visitantes nacionales e internacionales que desean conocer su forma de vida, relaciones interpersonales y manejos que impulsan su desarrollo. La comunidad al ser un actor turístico hace parte de la cadena de valor de turismo local, requiere de su participación en un proceso coordinado que agregan valor a los servicios ofrecidos, con el objetivo que los turistas disfruten de una experiencia final que integre los componentes del sistema turístico.
           .cajon.color-secundario.p-4.mb-4
             p Esta conformación reposa en las redes de turismo que se arman en los territorios y las cuales se relacionan con los productos turísticos que se ofertan, a través de la vinculación y participación dentro de la cadena de suministro dispuesta para ello y que culmina de forma competente siendo parte del mercado.
-      .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img2.png')})`}" data-aos="fade-left"
         )
@@ -29,7 +29,7 @@
       #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 3.1	Componentes de la coordinación interinstitucional
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           p La coordinación turística necesita planeación, para que cada actor contribuya al éxito del plan de trabajo. Es fundamental contar con un coordinador que dirija y ajuste los objetivos y actividades según las necesidades del desarrollo turístico local. La coordinación implica una comunicación bidireccional en todos los niveles de desarrollo (inicio, desarrollo, implementación, evaluación) y entre los diversos componentes de la industria turística, evitando la duplicidad de esfuerzos y la asignación errónea de responsabilidades. 
           p Para que funcione idóneamente es necesario identificar las características de la coordinación y su intencionalidad al momento de disponer acciones turísticas:
   
@@ -50,13 +50,13 @@
       #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 3.2	Mecanismos de relacionamiento
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           p Una vez definido los actores turísticos, es importante definir los mecanismos de relacionamiento para que sea funcional y exitoso con el ánimo de entablar una primera relación, para generar propuestas estrategias de desarrollo y así superar las necesidades detectadas previamente. El mecanismo se desarrolla a través de las siguientes etapas: 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-3
+        .col-lg-3.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/tema3/img4.svg', alt='Texto que describa la imagen')
-        .col-lg-7
+        .col-lg-7(data-aos="fade-left")
           LineaTiempoD.color-acento-botones
             p.text-normal(numero="1" titulo="Identificación de grupos de interés") Definido previamente en el mapa de actores.
             p.text-normal(numero="2" titulo="Definición de temas a tratar") Se priorizan temas relacionados a las propuestas o proyectos, los compromisos pactados y opiniones de los involucrados.
@@ -72,11 +72,11 @@
       #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 3.3	Sistemas de trabajo en equipo y colaboración
       .row.justify-content-center.align-items-center.mb-3
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           p En el desarrollo de la coordinación turística, se requiere poner en práctica habilidades de trabajo en equipo y trabajo colaborativo, que fomente entre los actores del turismo una cultura y un entorno de trabajo saludable. La sana convivencia propicia que los equipos conformados por áreas de trabajo, pueden alcanzar sus metas personales y empresariales mediante el uso de habilidades poderosas reflejadas en un trabajo eficaz.
       
       .row.justify-content-center.align-items-center.mb-3
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           p Trabajar en equipo de manera colaborativa puede promover la innovación, aumentar la satisfacción laboral, encontrar soluciones para resolver problemas y desarrollar excelentes habilidades sociales. Es por ello, importante considerar las siguientes precisiones conceptuales:
       
       .titulo-sexto.color-acento-contenido.offset-0(data-aos="zoom-in")
@@ -85,7 +85,7 @@
 
       .row.justify-content-center.align-items-center.mb-3
         .col-lg-12
-          .tabla-b.color-acento-contenido
+          .tabla-b.color-acento-contenido(data-aos="fade-left")
             table(alt="Tabla que relaciona las teorías de la administración, la cual explica en qué consiste casa una y asocia sus respectivos principios.")
               caption Nota. Ajustado de Equipo Editorial de Indeed (2023)
               thead.bghead
@@ -129,7 +129,7 @@
       #t_3_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 3.4	Características de la toma de decisiones en comités de trabajo
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           p La coordinación turística para alinearse con el desarrollo sostenible en los territorios y orientar acciones hacia un turismo sustentable, requiere constantemente de la toma de decisiones, por parte del grupo de actores involucrados en los procesos de planificación turística y que son definidos por comités de trabajo. El protagonismo de este método se ve reflejado en el monitoreo de impactos, resolución de problemas y empoderamiento de las comunidades, al ser parte del aprovechamiento de oportunidades que ofrece el turismo en las regiones, maximizando los beneficios del progreso y la gestión turística.
           p Es de tener claro que el proceso de toma de decisiones en la coordinación de acciones turísticas, se activa cuando se presentan situaciones que requieren ser atendidas para encontrarles la mejor solución posible para los involucrados. Destacando:
     
@@ -147,13 +147,13 @@
             img(src='@/assets/curso/temas/tema3/img5_1.svg', alt='Figura 9 que relaciona un esquema explicativo sobre el proceso que se debe llevar a cabo, al momento de tomar decisiones.')
             figcaption Nota. Ajustado de Laoyan (2024)
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           p La toma de decisiones en los comités de trabajo se da de forma periódica y en la mayoría de las veces, dan respuesta conflictos que se presentan relacionados a las actividades previamente concertadas y que no son atendidas en los tiempos y con los recursos proyectados. De ahí la importancia de conocer sobre las características y tipos de toma de decisiones, para definir el actuar dentro del proceso de forma individual o colectiva.
           p Las siguientes son las características de la toma de decisiones:
          
-      SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+      SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in")
         .tarjeta.tarjeta--BG02.color-primario.p-4
-          .row.justify-content-center
+          .row.justify-content-center(data-aos="zoom-in")
             .col-6.mb-3
               img(src='@/assets/curso/temas/tema3/img6.svg' alt='AvatarTop')
           h5.text-center Claridad
@@ -187,9 +187,9 @@
   
     
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           p Y los siguientes, son los tipos de la toma de decisiones:
-      .tarjeta.tarjeta--BG01.p-4.mb-5
+      .tarjeta.tarjeta--BG01.p-4.mb-5(data-aos="zoom-in")
         SlyderA(tipo="b" data-aos="zoom-in")
           .row.justify-content-center
             .col-lg-4.order-lg-1.order-2
@@ -240,7 +240,7 @@
             .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/temas/tema3/img16.png' alt="Imagen decorativa")  
             
-      .tarjeta.tarjeta--BG05.p-4.mb-3
+      .tarjeta.tarjeta--BG05.p-4.mb-3(data-aos="zoom-in")
           .row.justify-content-center.align-items-center.mb-3
             .col-lg-11
               p Y para finalizar, se relacionan las estrategias presentes en el proceso de toma de decisiones, como parte de la coordinación efectiva:
@@ -278,13 +278,13 @@
       #t_3_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 3.5	Resolución de conflictos y gestión de crisis en la coordinación turística
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           p En el desarrollo de las actividades de coordinación turística, surgen conflictos entre los actores turísticos de orden personal y como colectivo, requiriendo de habilidades en el manejo de estas situaciones para mantener las relaciones saludables. Para que no se pierda la óptica estratégica del progreso relacionado con la actividad turística, se hace esencial adquirir conocimientos y desarrollar habilidades personales para gestionar eficazmente los conflictos.
   
       
       
        
-      .bloque-texto-g.bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g.bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img19.png')})`}" data-aos="fade-left"
         )
@@ -293,11 +293,11 @@
             
   
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           p De ahí, la importancia al definir la resolución de conflictos como el conjunto de conocimientos y habilidades para comprender e intervenir en la solución pacífica y no violenta de enfrentamientos entre personas. Su relevancia radica en mejorar la calidad de decisiones y soluciones a problemas, facilitando la comunicación abierta entre participantes y promoviendo el reconocimiento de la legitimidad del otro, permitiendo las siguientes razones para negociar:  
       
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-10
+        .col-lg-10(data-aos="fade-left")
           .cajon.color-primario.p-4.mb-4
                 ul.lista-ul
                   li
@@ -312,7 +312,7 @@
                  
   
       .row.justify-content-center.align-items-center.mb-3
-        .col-lg-10
+        .col-lg-10(data-aos="fade-left")
           p Los siguientes, son los pasos para solucionar un conflicto:
           ol.lista-ol--cuadro.lista-ol--separador
             li 
@@ -349,12 +349,12 @@
               | Felicitar constantemente a los involucrados por la participación, interés y contribución en los procesos.
               
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           p  Continuando con los diferentes procesos del conflicto, es muy importante conocer las siguientes técnicas de resolución de conflictos, según lo expone ATCAL (s.f.): 
   
      
   
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
           .col-lg-10.movil
             figure
               img(src='@/assets/curso/temas/tema3/img20_1.svg', alt='Texto que describa la imagen')
@@ -377,14 +377,14 @@
                 p Su objetivo es encontrar una solución que ponga fin al problema.
                     
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           p  Otro aspecto a tener en cuenta en la resolución de conflictos, es la gestión de crisis que se presenta en la coordinación turística y sus involucrados, esto debido a las constantes amenazas que se presentan en los destinos turísticos. Encontrando, por ejemplo:
   
       .titulo-sexto.color-acento-contenido.offset-0(data-aos="zoom-in")
         h5 Tabla 5.
         span  #[i Amenazas de las crisis de los implicados ]
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-12
+        .col-lg-12(data-aos="fade-left")
           .tabla-b.color-acento-contenido.mb-5
             table(alt="Tabla que relaciona las teorías de la administración, la cual explica en qué consiste casa una y asocia sus respectivos principios.")
               caption Nota. Tomado de Rodríguez & Fraiz (2010)
@@ -413,10 +413,10 @@
 
       .tarjeta.tarjeta--BG05.p-4.mb-3
         .row.justify-content-center.align-items-center.mb-5
-          .col-lg-12
+          .col-lg-12(data-aos="fade-left")
             p Como mecanismo para resarcir las posibles crisis que se presentan como derivados del turismo, se resalta la necesidad de implementar medidas eficaces de gestión que defina la erradicación de factores causantes de las dificultades, por lo que se requieren estrategias específicas que preparen al ente gubernamental para gestionar, desde el inicio una crisis y facilitar la recuperación sin afectar la comunidad local.    
         
-        .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5
+        .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img21_1.png')})`}" data-aos="fade-left"
           )

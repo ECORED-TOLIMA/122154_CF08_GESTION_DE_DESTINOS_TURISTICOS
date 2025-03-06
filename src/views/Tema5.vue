@@ -7,10 +7,10 @@
           span 5
         h1 Estrategias concertadas
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-5
+        .col-lg-5.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/tema5/img1.png', alt='Texto que describa la imagen')
-        .col-lg-7
+        .col-lg-7(data-aos="fade-right")
           p El turismo como factor clave para el desarrollo socioeconómico de los países, al promover el progreso de localidades y regiones, responde a la globalización, la descentralización de políticas públicas y la disminución del estado de bienestar. Ante ello, se requiere analizar los recursos turísticos locales para diseñar estrategias de desarrollo que involucren a la comunidad y mejoren su calidad de vida. 
           .cajon.color-secundario.p-4.mb-4
             p Hay que ser parte de las acciones concertadas con la comunidad, definidas como un acuerdo o alianza entre dos o más actores del turismo que busca una mayor influencia en los territorios, a partir del sector turismo. Es el proceso de determinar cómo una comunidad puede realizar un uso adecuado de los recursos en su región. Para ello, demanda de la organización y aprovechamiento de los recursos naturales y culturales disponibles, para ser empleados en la oferta turística. Esta inclinación va desde la generación de políticas, hasta el logro de metas, elevando la calidad de vida de los residentes como resultado de un desarrollo sostenible y sustentable a partir del turismo.
@@ -21,19 +21,19 @@
       #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 5.1	Metodologías para la concertación de acciones en turismo
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-12
+        .col-lg-12(data-aos="fade-right")
           p La planificación estratégica nace desde el Estado, quien dispone las políticas públicas para crear programas y ejecutar proyectos condensados en un plan, objetivos claros, estrategia específica, propuesta con sus metas y el modelo a emplear, partiendo desde las necesidades de la comunidad. 
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           .cajon.color-primario.p-4
             .row.justify-content-center.align-items-center
-              .col-lg-2
+              .col-lg-2.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
                 figure
                   img(src='@/assets/curso/temas/tema5/img2.svg', alt='Texto que describa la imagen')
-              .col-lg-10
+              .col-lg-10(data-aos="fade-right")
                 p Para el diseño de los planes sólidos y equilibrados se requiere aprovechar los principios de la planeación administrativa como guía que lleve al logro de objetivos trazados.
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-12
+        .col-lg-12(data-aos="fade-right")
           p Frente a ello, dentro de la planificación turística y el manejo articulado de los actores, como motor de la economía local, es de reconocer a esta como la impulsora de la integración y el desarrollo regional mediante la concertación de acciones para el logro de objetivos. Al respecto:
   
       .titulo-sexto.color-acento-contenido.offset-1(data-aos="zoom-in")
@@ -50,17 +50,17 @@
             img(src='@/assets/curso/temas/tema5/img3_1.svg', alt='Figura 10 que relaciona un esquema que hace referencia a la planificación del territorio, que parte del diagnóstico de este.')
   
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-12
+        .col-lg-12(data-aos="fade-right")
           p La acción comunitaria cobra significado al surgir de un grupo humano que comparte un espacio y una conciencia de pertenencia, promoviendo vínculos y apoyo mutuo, e impulsando la mejora de su realidad. Sus valores radican en generar cambios sociales y en las formas de interacción humana que fomenta. Se enfoca en satisfacer necesidades y expectativas de calidad de vida, a través de relaciones basadas en respeto, confianza y diálogo. Su justificación radica en ser un motor de transformación hacia comunidades más inclusivas, fomentando el protagonismo colectivo y la ciudadanía activa.
   
           p Para ser parte de iniciativas en el eslabón de la planificación turística, la comunidad conlleva implícita una realidad social, con elementos definidos como:
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-5
+        .col-lg-5.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/tema5/img4.svg', alt='Texto que describa la imagen')
   
      
-        .col-lg-7
+        .col-lg-7(data-aos="fade-right")
                 ul.lista-ul
                   li
                     i.fas.fa-angle-right
@@ -76,11 +76,11 @@
                     | Arraigo a un territorio comunitario que implica un espacio físico compartido que conecta agentes, instrumentos y contenidos para la acción, y que incorpora significados de pertenencia.
       
       .row.justify-content-center.align-items-center.mb-4
-          .col-lg-12
+          .col-lg-12(data-aos="fade-right")
             p El instrumental metodológico de la acción comunitaria es diverso y rico, destacándose estos elementos relacionados con dinámicas participativas y la construcción conjunta en el territorio:
   
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-7
+        .col-lg-7(data-aos="fade-right")
         
           LineaTiempoD.color-acento-botones
             p.text-small(numero="1" titulo="Autonomía y responsabilidad") Se busca incluir a personas que puedan contribuir desde su subjetividad, autonomía y capacidad de reflexión.
@@ -91,13 +91,13 @@
             p.text-small(numero="6" titulo="Dinamismo y aprendizaje") Los procesos comunitarios permiten la adquisición continua de habilidades y el aprendizaje, a partir de experiencias. Exigen enfoques de trabajo dinámicos que trasciendan la dicotomía entre planificación y gestión. 
             p.text-small(numero="7" titulo="Proximidad al territorio y dinámicas sociales") Es fundamental aprovechar los recursos existentes y potenciarlos para integrarlos en el proceso comunitario. Estos procesos deben ser sostenibles a largo plazo, es esencial partir de lo que ya existe y fomentar dinámicas que fortalezcan las capacidades comunitarias para su sostenibilidad.
             
-        .col-lg-3
+        .col-lg-3(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/tema5/img5.png', alt='Texto que describa la imagen')
             
   
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-12
+        .col-lg-12(data-aos="fade-right")
           p De igual manera, se detallas lo siguientes componentes:
   
       h5 Tabla 4.
@@ -164,11 +164,11 @@
       #t_5_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 5.2	Monitoreo y seguimiento a las acciones concertadas
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-12
+        .col-lg-12(data-aos="fade-right")
           p En la ejecución de acciones concertadas, es necesario verificar la participación de los actores turísticos, a través de recolección y gestión de datos sobre la ejecución de actividades pactadas, las cuales proporcionan información descriptiva y explicativa. Este proceso requiere mecanismos e instrumentos para que la información sea accesible. La evaluación, por su parte, es una actividad periódica, que implica un análisis crítico basado en la información del monitoreo. Examina las relaciones entre lo que ocurre, sus causas y consecuencias, valorando la estrategia de acción y organización para responder preguntas específicas y extraer lecciones aprendidas. Facilita la toma de decisiones y mejora la planificación futura, evaluando la gestión del plan de trabajo y su impacto en cambios significativos en diversas realidades sociales, institucionales y económicas.
       
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-7
+        .col-lg-7(data-aos="fade-right")
           p Las acciones concertadas al ser desarrolladas, buscan inducir cambios significativos y sostenibles en las regiones, conocidos como impacto, por lo que sus responsables deben proporcionar información objetiva basada en evidencias. Esto implica tener un sistema de recolección y análisis de datos que ayude en la dirección del plan de trabajo, permitiendo: 
           .col-lg-7
                 ul.lista-ul
@@ -187,11 +187,11 @@
                   li
                     i.fas.fa-angle-right
                     | Asegurar un funcionamiento eficaz y eficiente verificando el cumplimiento de los actividades y tareas acordadas. 
-        .col-lg-5
+        .col-lg-5(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/tema5/img6.png', alt='Texto que describa la imagen')
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-12
+        .col-lg-12(data-aos="fade-right")
           p El monitoreo y evaluación son fundamentales en la gestión de información y conocimiento, para diversos actores turísticos en acciones de desarrollo. Facilitan el acceso a datos relevantes, permitiendo la comunicación regular entre los participantes. Los reportes presentan evidencias sobre avances y dificultades, incorporando las perspectivas de diferentes grupos, lo que fomenta ajustes en estrategias de cooperación. Es crucial para reflexionar sobre cómo las acciones contribuyen a cerrar brechas y empoderar a los grupos más desfavorecidos, por lo que se debe tener en cuenta: 
       
       .titulo-sexto.color-acento-contenido.offset-1(data-aos="zoom-in")
@@ -211,7 +211,7 @@
       
         
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-12
+        .col-lg-12(data-aos="fade-right")
           p El proceso de seguimiento, monitoreo y evaluación, genera un aporte a una gestión en los destinos, desde la óptica de concertación de actividades entre los actores turísticos, al ser retroalimentada en tiempo oportuno, desde evidencias, datos de cambio y resultados propios de la ejecución. Este tipo de acciones permiten la aplicación de las estrategias, la organización y planificación de la oferta turística desde la institucionalidad del Estado, la toma de decisiones en conjunto y el aprendizaje para la mejora del tejido social en las comunidades de forma sostenible y sustentable.
   
   </template>
