@@ -296,7 +296,7 @@ export default {
     },
     {
       referencia:
-        'Gomà R. (s.f.). La acción comunitaria: transformación social y construcción de ciudadanía.',
+        'Gomá R. (s.f.). La acción comunitaria: transformación social y construcción de ciudadanía.',
       link:
         'https://eduso.net/res/revista/7/marco-teorico/la-accion-comunitaria-transformacion-social-y-construccion-de-ciudadania',
     },
@@ -334,7 +334,7 @@ export default {
     {
       referencia: 'Pedroza, C. (s.f.). Roles de la administración.',
       link:
-        'https://teoriasadmvas.fandom.com/es/wiki/ROLES_DE_LA_ADMINISTRACI%C3%92N_(CLAUDIA_PEDROZA_1_C)_',
+        'https://teoriasadmvas.fandom.com/es/wiki/ROLES_DE_LA_ADMINISTRACI%C3%92N_(CLAUDIA_PEDROZA_1_C)_:)',
     },
     {
       referencia:
@@ -366,7 +366,7 @@ export default {
         'https://www.telcel.com/empresas/tendencias/notas/etapas-del-proceso-administrativo#:~:text=Las%20etapas%2C%20que%20son%3A%20la,para%20llegar%20a%20la%20meta.&text=Todo%20proceso%20administrativo%20trata%20de,de%20forma%20continua%20y%20din%C3%A1mica',
     },
     {
-      referencia: 'Unacademy. (s.f.). Coordinación.',
+      referencia: 'Unacademy. (s.f.). Coordination.',
       link:
         'https://unacademy.com/content/cbse-class-11/study-material/business-studies/coordination/',
     },

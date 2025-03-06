@@ -40,11 +40,11 @@
       .row.justify-content-center.mb-4
         .col-md-10.desktop(data-aos="zoom-in")
           figure
-            img(src='@/assets/curso/temas/tema3/img3.svg', alt='Figura que contiene un esquema que de manera puntual, relaciona las características que tiene la coordinación.')
+            img(src='@/assets/curso/temas/tema3/img3.svg', alt='Figura 8 que contiene un esquema que de manera puntual, relaciona las características que tiene la coordinación, la cual parte de un proceso grupal.')
             figcaption Nota. Ajustado de Unacademy (s.f.)
         .col-md-6.movil(data-aos="zoom-in")
           figure
-            img(src='@/assets/curso/temas/tema3/img3_1.svg', alt='Figura que contiene un esquema que de manera puntual, relaciona las características que tiene la coordinación.')
+            img(src='@/assets/curso/temas/tema3/img3_1.svg', alt='Figura 8 que contiene un esquema que de manera puntual, relaciona las características que tiene la coordinación, la cual parte de un proceso grupal.')
             figcaption Nota. Ajustado de Unacademy (s.f.)
       separador
       #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -140,11 +140,11 @@
       .row.justify-content-center.mb-4
         .col-md-10.desktop(data-aos="zoom-in")
           figure
-            img(src='@/assets/curso/temas/tema3/img5.svg', alt='Figura que contiene un esquema que de manera puntual, relaciona las características que tiene la coordinación.')
+            img(src='@/assets/curso/temas/tema3/img5.svg', alt='Figura 9 que relaciona un esquema explicativo sobre el proceso que se debe llevar a cabo, al momento de tomar decisiones.')
             figcaption Nota. Ajustado de Laoyan (2024)
         .col-md-6.movil(data-aos="zoom-in")
           figure
-            img(src='@/assets/curso/temas/tema3/img5_1.svg', alt='Figura que contiene un esquema que de manera puntual, relaciona las características que tiene la coordinación.')
+            img(src='@/assets/curso/temas/tema3/img5_1.svg', alt='Figura 9 que relaciona un esquema explicativo sobre el proceso que se debe llevar a cabo, al momento de tomar decisiones.')
             figcaption Nota. Ajustado de Laoyan (2024)
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-12
@@ -365,17 +365,15 @@
                 figure
                   img(src='@/assets/curso/temas/tema3/img20.svg', alt='Texto que describa la imagen')
                   figcaption Ajustado de telcel.com (s.f.)
-              .tarjeta.color-primario.tarjeta--BG03.p-3(x="30%" y="12%" numero="2")
-                p El mediador es responsable de crear un ambiente donde sea posible compartir información, profundizar en los problemas y expresar libremente sus problemas.
-                  
-  
-              .tarjeta.color-primario.tarjeta--BG03.p-3(x="68%" y="12%" numero="4")
+              .tarjeta.color-primario.tarjeta--BG03.p-3(x="30%" y="12%" numero="+")
+                p El mediador es responsable de crear un ambiente donde sea posible compartir información, profundizar en los problemas y expresar libremente sus problemas.  
+              .tarjeta.color-primario.tarjeta--BG03.p-3(x="68%" y="12%" numero="+")
                 p Se suele utilizar en cuestiones que necesitan una rápida solución entre varias partes.
               .tarjeta.color-primario.tarjeta--BG03.p-3(x="10%" y="80%" numero="+")
                 p Se usa habitualmente en problemas en los que se ven involucrados varias partes.
-              .tarjeta.color-primario.tarjeta--BG03.p-3(x="49%" y="80%" numero="3")
+              .tarjeta.color-primario.tarjeta--BG03.p-3(x="49%" y="80%" numero="+")
                 p Consiste en juntas y mesas de especialistas que revisan los conflictos y ofrecen una evaluación totalmente objetiva en todos los aspectos.
-              .tarjeta.color-primario.tarjeta--BG03.p-3(x="87%" y="80%" numero="5")
+              .tarjeta.color-primario.tarjeta--BG03.p-3(x="87%" y="80%" numero="+")
                 p Su objetivo es encontrar una solución que ponga fin al problema.
                     
       .row.justify-content-center.align-items-center.mb-5
@@ -417,16 +415,17 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-12
             p Como mecanismo para resarcir las posibles crisis que se presentan como derivados del turismo, se resalta la necesidad de implementar medidas eficaces de gestión que defina la erradicación de factores causantes de las dificultades, por lo que se requieren estrategias específicas que preparen al ente gubernamental para gestionar, desde el inicio una crisis y facilitar la recuperación sin afectar la comunidad local.    
-        .row.justify-content-center.align-items-center.mb-5
-          .col-lg-3
-            figure
-              img(src='@/assets/curso/temas/tema3/img21.png', alt='Texto que describa la imagen')
-          .col-lg-7
-            p Esta preparación, implica una planificación previa que no se limite a campañas promocionales, ya que el turismo, aunque asociado a experiencias positivas, es vulnerable ante amenazas que afectan la percepción de riesgo del turista. A pesar de su vulnerabilidad, el turismo tiene una alta capacidad de recuperación y sus beneficios se extienden a toda la economía local. Por lo tanto, es esencial que la administración pública, a través de acciones permita la recuperación del sector, tras una crisis en el territorio, a partir de la participación activa de la comunidad en la propuesta de soluciones para mitigar la dificultad, porque de ellos nace el sentir de la afectación y su reflejo comportamental lo recibe el turista. 
-            p Es por esto, que la gestión de crisis debe llevarse a cabo con un enfoque de coordinación, que incluya a los involucrados en la cadena de suministro como negocios locales, tour operadores; al gobierno para asegurar recomendaciones de vía efectiva, pero también a la comunidad como soporte social local. De esta articulación entre actores turísticos involucrados, nace la colaboración para resolver los conflictos generando propuestas y soluciones a las crisis presentes y proyectadas. Estas acciones evitan la falta de confianza por parte de los turistas y una imagen negativa sobre el destino, que pueden comprometer la sostenibilidad y viabilidad económica a largo plazo del lugar.                   
-                      
-                 
-                      
+        
+        .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img21_1.png')})`}" data-aos="fade-left"
+          )
+          .bloque-texto-g__texto.p-4(data-aos="fade-right")
+            p.mb-0 Esta preparación, implica una planificación previa que no se limite a campañas promocionales, ya que el turismo, aunque asociado a experiencias positivas, es vulnerable ante amenazas que afectan la percepción de riesgo del turista. A pesar de su vulnerabilidad, el turismo tiene una alta capacidad de recuperación y sus beneficios se extienden a toda la economía local. Por lo tanto, es esencial que la administración pública, a través de acciones permita la recuperación del sector, tras una crisis en el territorio, a partir de la participación activa de la comunidad en la propuesta de soluciones para mitigar la dificultad, porque de ellos nace el sentir de la afectación y su reflejo comportamental lo recibe el turista. 
+            br
+            br
+            p.mb-0 Es por esto, que la gestión de crisis debe llevarse a cabo con un enfoque de coordinación, que incluya a los involucrados en la cadena de suministro como negocios locales, tour operadores; al gobierno para asegurar recomendaciones de vía efectiva, pero también a la comunidad como soporte social local. De esta articulación entre actores turísticos involucrados, nace la colaboración para resolver los conflictos generando propuestas y soluciones a las crisis presentes y proyectadas. Estas acciones evitan la falta de confianza por parte de los turistas y una imagen negativa sobre el destino, que pueden comprometer la sostenibilidad y viabilidad económica a largo plazo del lugar.  
+               
           
   </template>
 

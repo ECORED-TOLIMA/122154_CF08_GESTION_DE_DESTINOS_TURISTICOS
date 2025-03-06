@@ -43,11 +43,11 @@
       .row.justify-content-center.mb-4
         .col-md-10.desktop(data-aos="zoom-in")
           figure
-            img(src='@/assets/curso/temas/tema5/img3.svg', alt='Figura que contiene un esquema que de manera puntual, relaciona las características que tiene la coordinación.')
+            img(src='@/assets/curso/temas/tema5/img3.svg', alt='Figura 10 que relaciona un esquema que hace referencia a la planificación del territorio, que parte del diagnóstico de este.')
             
         .col-md-6.movil(data-aos="zoom-in")
           figure
-            img(src='@/assets/curso/temas/tema5/img3_1.svg', alt='Figura que contiene un esquema que de manera puntual, relaciona las características que tiene la coordinación.')
+            img(src='@/assets/curso/temas/tema5/img3_1.svg', alt='Figura 10 que relaciona un esquema que hace referencia a la planificación del territorio, que parte del diagnóstico de este.')
   
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
@@ -201,11 +201,11 @@
       .row.justify-content-center.mb-4
         .col-md-10.desktop(data-aos="zoom-in")
           figure
-            img(src='@/assets/curso/temas/tema5/img7.svg', alt='Figura que contiene un esquema que explica de manera puntual, los ámbitos de medición, los cuales parten de un contexto que es el territorio y luego llevan a cabo una gestión que desencadena el impacto y los resultados. ')
+            img(src='@/assets/curso/temas/tema5/img7.svg', alt='Figura 11 que contiene un esquema que explica de manera puntual, los ámbitos de medición, los cuales parten de un contexto que es el territorio y luego llevan a cabo una gestión que desencadena el impacto y los resultados.')
             
         .col-md-6.movil(data-aos="zoom-in")
           figure
-            img(src='@/assets/curso/temas/tema5/img8.svg', alt='FFigura que contiene un esquema que explica de manera puntual, los ámbitos de medición, los cuales parten de un contexto que es el territorio y luego llevan a cabo una gestión que desencadena el impacto y los resultados. ')
+            img(src='@/assets/curso/temas/tema5/img8.svg', alt='FFigura 11 que contiene un esquema que explica de manera puntual, los ámbitos de medición, los cuales parten de un contexto que es el territorio y luego llevan a cabo una gestión que desencadena el impacto y los resultados.')
   
       
       

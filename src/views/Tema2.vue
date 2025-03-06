@@ -38,11 +38,11 @@
     .row.justify-content-center.mb-4
       .col-md-10.desktop(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/temas/tema2/img2.svg', alt='Figura que contiene la relación de los elementos que son tangibles e intangibles, dentro del proceso de destinos turísticos.')
+          img(src='@/assets/curso/temas/tema2/img2.svg', alt='Figura 3 que contiene la relación de los elementos que son tangibles e intangibles, dentro del proceso de destinos turísticos.')
           figcaption Nota. Tomado de SERNATUR (2017)
       .col-md-6.movil(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/temas/tema2/img2_1.svg', alt='Figura que contiene la relación de los elementos que son tangibles e intangibles, dentro del proceso de destinos turísticos.')
+          img(src='@/assets/curso/temas/tema2/img2_1.svg', alt='Figura 3 que contiene la relación de los elementos que son tangibles e intangibles, dentro del proceso de destinos turísticos.')
           figcaption Nota. Tomado de SERNATUR (2017)
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -52,7 +52,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-4
           figure
-            img(src='@/assets/curso/temas/tema2/img3.png', alt='Figura que contiene la relación de los elementos que son tangibles e intangibles, dentro del proceso de destinos turísticos.')
+            img(src='@/assets/curso/temas/tema2/img3.png', alt='')
         .col-lg-6
           p Es por ello, que se define como un proceso global que abarca diferentes aspectos del destino, incluyendo la colaboración con empresas locales y el uso de conocimientos particulares para generar experiencias inmersivas, que atraigan más viajeros. Cada sistema de gestión es único, centrándose en recursos específicos como alojamiento, atracciones turísticas, eventos y actividades.
           p Este tipo de gestión es crucial, porque beneficia a toda la zona designada como destino. Además de atraer turistas, puede atraer patrocinadores e inversores, lo que ayuda a las empresas locales a crecer y prosperar. La inyección financiera revitaliza pueblos y ciudades, ayudando a mejorar la economía de una región o país. La gestión de destinos añade valor a largo plazo, lo que significa que un destino o país, puede seguir cosechando beneficios en el futuro gracias al turismo.
@@ -66,11 +66,11 @@
     .row.justify-content-center.mb-4
       .col-md-10.desktop(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/temas/tema2/img4.svg', alt='Figura que contiene un esquema de los distintos niveles de la administración territorial de Colombia.')
+          img(src='@/assets/curso/temas/tema2/img4.svg', alt='Figura 4 que contiene un esquema de los distintos niveles de la administración territorial de Colombia, lo cual parte de los departamentos y el Distrito Capital.')
           figcaption Nota. Tomado de SERNATUR (2017)
       .col-md-6.movil(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/temas/tema2/img4_1.svg', alt='Figura que contiene un esquema de los distintos niveles de la administración territorial de Colombia.')
+          img(src='@/assets/curso/temas/tema2/img4_1.svg', alt='Figura 4 que contiene un esquema de los distintos niveles de la administración territorial de Colombia, lo cual parte de los departamentos y el Distrito Capital.')
           figcaption Nota. Tomado de SERNATUR (2017)
 
     
@@ -102,11 +102,11 @@
     .row.justify-content-center.mb-4
       .col-md-10.desktop(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/temas/tema2/img6.svg', alt='Figura que contiene los nombres de los actores que hacen parte de la estructura de gobernanza del destino. ')
+          img(src='@/assets/curso/temas/tema2/img6.svg', alt='Figura 5 que contiene los nombres de los actores que hacen parte de la estructura de gobernanza del destino.')
           figcaption Nota. Tomado de SERNATUR (2017)
       .col-md-6.movil(data-aos="zoom-in")
         figure
-        img(src='@/assets/curso/temas/tema2/img6_1.svg', alt='Figura que contiene los nombres de los actores que hacen parte de la estructura de gobernanza del destino. ')
+        img(src='@/assets/curso/temas/tema2/img6_1.svg', alt='Figura 5 que contiene los nombres de los actores que hacen parte de la estructura de gobernanza del destino.')
         figcaption Nota. Tomado de SERNATUR (2017)
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -143,11 +143,11 @@
     .row.justify-content-center.mb-4
       .col-md-10.desktop(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/temas/tema2/img8.svg', alt='Figura que relaciona cuáles son los elementos que hacen parte de un modelo de gobernanza.')
+          img(src='@/assets/curso/temas/tema2/img8.svg', alt='Figura 6 que relaciona cuáles son los elementos que hacen parte de un modelo de gobernanza.')
           figcaption Nota.Tomado de SERNATUR (2017)
       .col-md-6.movil(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/temas/tema2/img8_1.svg', alt='Figura que relaciona cuáles son los elementos que hacen parte de un modelo de gobernanza.')
+          img(src='@/assets/curso/temas/tema2/img8_1.svg', alt='Figura 6 que relaciona cuáles son los elementos que hacen parte de un modelo de gobernanza.')
           figcaption Nota.Tomado de SERNATUR (2017)
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -246,11 +246,11 @@
     .row.justify-content-center.mb-4
       .col-md-10.desktop(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/temas/tema2/img15.svg', alt='Figura que contiene un esquema que relaciona los pasos que hacen parte de un proceso comunitario.')
+          img(src='@/assets/curso/temas/tema2/img15.svg', alt='Figura 7 que contiene un esquema que relaciona los pasos que hacen parte de un proceso comunitario.')
           figcaption Nota.Tomado de Marchioni & Morín (s.f.) 
       .col-md-6.movil(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/temas/tema2/img15_1.svg', alt='Figura que contiene un esquema que relaciona los pasos que hacen parte de un proceso comunitario.')
+          img(src='@/assets/curso/temas/tema2/img15_1.svg', alt='Figura 7 que contiene un esquema que relaciona los pasos que hacen parte de un proceso comunitario.')
           figcaption Nota.Tomado de Marchioni & Morín (s.f.) 
 </template>
 

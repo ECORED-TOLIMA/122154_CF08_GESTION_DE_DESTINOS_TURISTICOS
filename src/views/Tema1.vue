@@ -349,7 +349,7 @@
                     p Plantea que la administración participativa es la mejor manera de aprovechar el potencial humano proporcionando perspectiva de superación personal.
                 tr
                   td
-                    p Teoría Z de William Ouchi y Richard Pascale
+                    p #[b Teoría Z de William Ouchi y Richard Pascale]
                   td.text-left
                     p Considera que hay tres tipos de empresa, la del tipo A que asimiló a las empresas estadounidenses, las del tipo J que asimiló a las firmas japonesas y las de tipo Z que tiene una nueva cultura, la Z.
                   td.text-left
@@ -453,11 +453,11 @@
       .row.justify-content-center.mb-4
         .col-md-10.desktop(data-aos="zoom-in")
           figure
-            img(src='@/assets/curso/temas/tema1/img22.svg', alt='Figura que relaciona la división de los roles que están presentes en la administración.')
+            img(src='@/assets/curso/temas/tema1/img22.svg', alt='Figura 1 que relaciona la división de los roles que están presentes en la administración, los cuales son de tipo interpersonales, de toma de decisión e informativos y cada uno tiene el rol presente en estos tipos.')
             figcaption Nota. Adaptado de Pedroza (s.f.).
         .col-md-6.movil(data-aos="zoom-in")
           figure
-            img(src='@/assets/curso/temas/tema1/img22_1.svg', alt='Figura que relaciona la división de los roles que están presentes en la administración.')
+            img(src='@/assets/curso/temas/tema1/img22_1.svg', alt='Figura 1 que relaciona la división de los roles que están presentes en la administración, los cuales son de tipo interpersonales, de toma de decisión e informativos y cada uno tiene el rol presente en estos tipos.')
             figcaption Nota. Adaptado de Pedroza (s.f.).
 
       separador
@@ -708,19 +708,19 @@
             .col-md-12.mb-4.mb-md-0
               h5  Administración pública
               figure
-                img(src='@/assets/curso/temas/tema1/img25.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img25.svg', alt='Figura que contiene un esquema que relaciona a través de un ejemplo jerárquico la administración pública.')
                 figcaption Tomado de Funcionpublica.gov.co (s.f.).
           .row(titulo="")
             .col-md-12.mb-4.mb-md-0
               h5  Administración privada
               figure
-                img(src='@/assets/curso/temas/tema1/img26.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img26.svg', alt='Figura que ejemplifica por medio de un esquema jerárquico la administración privada.')
                 figcaption Tomado de Martín (2025).
           .row(titulo="")
             .col-md-12.mb-4.mb-md-0
               h5  Administración mixta
               figure
-                img(src='@/assets/curso/temas/tema1/img27.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img27.svg', alt='Figura que ejemplifica por medio de un esquema jerárquico de una empresa de servicios públicos, lo que representa a la administración mixta.')
                 figcaption Tomado de Comparasoftware.com (2023).
       separador
       #t_1_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -764,19 +764,19 @@
             .col-md-12.mb-4.mb-md-0
               h5  Elementos de la planeación
               figure
-                img(src='@/assets/curso/temas/tema1/img31.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img31.svg', alt='Esquema que contiene los elementos que hacen parte de la planeación.')
                 figcaption Nota. Ajustado de Santos (2020).
           .row(titulo="")
             .col-md-12.mb-4.mb-md-0
               h5  Principios de la planeación
               figure
-                img(src='@/assets/curso/temas/tema1/img32.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img32.svg', alt='Esquema que contiene los principios que hacen parte de la planeación.')
                 figcaption Nota. Ajustado de López (s.f.). 
           .row(titulo="")
             .col-md-12.mb-4.mb-md-0
               h5  Características de la planeación
               figure
-                img(src='@/assets/curso/temas/tema1/img33.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img33.svg', alt='Esquema que contiene las características que hacen parte de la planeación.')
                 figcaption Nota. Ajustado de López C. (s.f.).
     
       .tarjeta.tarjeta--BG05.p-4.mb-4
@@ -921,11 +921,11 @@
       .row.justify-content-center.mb-4
         .col-md-10.desktop(data-aos="zoom-in")
           figure
-            img(src='@/assets/curso/temas/tema1/img40.svg', alt='Figura que relaciona cuáles son los pasos que se deben seguir, si se desea llevar a cabo un plan de trabajo.')
+            img(src='@/assets/curso/temas/tema1/img40.svg', alt='Figura 2 que relaciona cuáles son los pasos que se deben seguir, si se desea llevar a cabo un plan de trabajo.')
             figcaption Nota. Personio.es (s.f.).
         .col-md-6.movil(data-aos="zoom-in")
           figure
-            img(src='@/assets/curso/temas/tema1/img40_1.svg', alt='Figura que relaciona cuáles son los pasos que se deben seguir, si se desea llevar a cabo un plan de trabajo.')
+            img(src='@/assets/curso/temas/tema1/img40_1.svg', alt='Figura 2 que relaciona cuáles son los pasos que se deben seguir, si se desea llevar a cabo un plan de trabajo.')
             figcaption Nota. Personio.es (s.f.).
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
