@@ -206,10 +206,7 @@
         .col-md-6.movil(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/tema5/img8.svg', alt='FFigura 11 que contiene un esquema que explica de manera puntual, los ámbitos de medición, los cuales parten de un contexto que es el territorio y luego llevan a cabo una gestión que desencadena el impacto y los resultados.')
-  
-      
-      
-        
+
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-12(data-aos="fade-right")
           p El proceso de seguimiento, monitoreo y evaluación, genera un aporte a una gestión en los destinos, desde la óptica de concertación de actividades entre los actores turísticos, al ser retroalimentada en tiempo oportuno, desde evidencias, datos de cambio y resultados propios de la ejecución. Este tipo de acciones permiten la aplicación de las estrategias, la organización y planificación de la oferta turística desde la institucionalidad del Estado, la toma de decisiones en conjunto y el aprendizaje para la mejora del tejido social en las comunidades de forma sostenible y sustentable.
