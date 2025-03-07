@@ -195,7 +195,7 @@
                       | Paso 4. Clasificar los factores hacia atrás-adelante según su impacto.
                     li
                       i.fas.fa-angle-right
-                      | Paso 5. Identificar los factores críticos
+                      | Paso 5. Identificar los factores críticos.
               .row.justify-content-center.align-items-center
                 .col-lg-12(data-aos="zoom-in")
                   figure

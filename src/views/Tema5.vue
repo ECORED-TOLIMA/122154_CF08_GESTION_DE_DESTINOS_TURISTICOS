@@ -31,7 +31,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema5/img2.svg', alt='Texto que describa la imagen')
               .col-lg-10(data-aos="fade-right")
-                p Para el diseño de los planes sólidos y equilibrados se requiere aprovechar los principios de la planeación administrativa como guía que lleve al logro de objetivos trazados.
+                p Ya desde lo particular, se hace necesario tener claro que antes de la formulación de una estrategia, es importante comprender el estado del territorio en temas turísticos y su vocación, sin dejar de lado un aspecto relevante, como es el sentir y deseo de la comunidad por tener el turismo en su territorio.
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-12(data-aos="fade-right")
           p Frente a ello, dentro de la planificación turística y el manejo articulado de los actores, como motor de la economía local, es de reconocer a esta como la impulsora de la integración y el desarrollo regional mediante la concertación de acciones para el logro de objetivos. Al respecto:

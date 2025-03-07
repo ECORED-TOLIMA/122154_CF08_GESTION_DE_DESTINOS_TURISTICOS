@@ -98,9 +98,11 @@
                   td  #[b ¿Qué es?]
                   td 
                     p.text-left La colaboración se manifiesta y ocurre cuando se trabaja con una o más personas que tienen diferentes habilidades para producir algo.
+                    p.text-left La colaboración es un intercambio de habilidades aprendidas que pueden mejorar la productividad, resolver problemas, fomentar relaciones saludables y crear trabajo en equipo.
+
 
                   td
-                    p.text-left La colaboración es un intercambio de habilidades aprendidas que pueden mejorar la productividad, resolver problemas, fomentar relaciones saludables y crear trabajo en equipo.
+                    p.text-left El trabajo en equipo es la capacidad de un grupo para trabajar en conjunto de manera efectiva, comunicarse bien, definir roles y liderazgo, compartir recursos y escucharse activamente unos a otros.
                 tr
                   td
                     p  #[b Importancia]

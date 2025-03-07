@@ -59,7 +59,7 @@
                     | Los jefes de familia ejercían la autoridad para tomar las decisiones.
                   li
                     i.fas.fa-angle-right
-                    | División primitiva del trabajo definida por sexos y edades
+                    | División primitiva del trabajo definida por sexos y edades.
                   li
                     i.fas.fa-angle-right
                     | Sociedad de esfuerzos - incipiente administración.
@@ -236,7 +236,7 @@
                         | Autoridad: derecho para dar órdenes y esperar obediencia.
                       li
                         i.fas.fa-angle-right
-                        | Responsabilidad: deber de rendir cuentas
+                        | Responsabilidad: deber de rendir cuentas.
                     p #[b Disciplina:] 
                     ul.lista-ul
                       li
@@ -249,7 +249,7 @@
                     p #[b Unidad de dirección:] debe haber un jefe y un plan para cada grupo de actividades que tengan el mismo objetivo.
                     p #[b Subordinación de los intereses individuales a los generales:] los intereses generales deben estar por encima de los intereses particulares.
                     p #[b Remuneración del personal:] debe haber una satisfacción justa y garantizada para los empleados y para la organización.
-                    p #[b Centralización:] concentración de la autoridad en la cúpula de la organización
+                    p #[b Centralización:] concentración de la autoridad en la cúpula de la organización.
                     p #[b Cadena escalar:] línea de autoridad que va del escalón más alto al más bajo. Puede saltearse si es imprescindible y existe autorización.
                     p #[b Orden:] un lugar para cada cosa y cada cosa en su lugar. Orden material y humano.
                     p #[b Equidad:] amabilidad y justicia para conseguir lealtad del personal.
@@ -759,7 +759,9 @@
                   img(src='@/assets/curso/temas/tema1/img30.svg', alt='Texto que describa la imagen')
               .col-lg-10(data-aos="fade-left")
                 p Para el diseño de los planes sólidos y equilibrados se requiere aprovechar los principios de la planeación administrativa como guía que lleve al logro de objetivos trazados.
-  
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-12
+          p Es importante tener presente dentro de la planeación, los elementos, los principios y las características, los cuales se representan a continuación, en su estructuración:
       .tarjeta.tarjeta--gris.tarjeta--BG04.p-4.mb-4(data-aos="zoom-in")
         PasosB.color-acento-contenido
           .row(titulo="")
