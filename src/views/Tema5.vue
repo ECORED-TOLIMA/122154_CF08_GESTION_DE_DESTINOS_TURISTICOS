@@ -98,66 +98,75 @@
   
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-12(data-aos="fade-right")
-          p De igual manera, se detallas lo siguientes componentes:
+          p De igual manera, se detallan lo siguientes componentes:
   
-      h5 Tabla 4.
-        span  #[i Conceptos ]
-        .row.mb-4
-          .col-lg-12
-            .tabla-b.color-acento-contenido.mb-4
-              table(alt="Tabla que detalla los componentes que hacen parte de un esquema metodológico, relacionando los pasos y la descripción de cada uno.")
-                caption Nota. Ajustado de Gomà (s.f.)
-                thead.bghead
-                  tr
-                    th Componente
-                    th Pasos
-                    th Descripción
-                tbody
-                  tr
-                    td  #[b El diagnóstico comunitario y participativo]
-                    td 
-                      p.text-right Identificación de actores turísticos presentes en el territorio.
-                      p Comunicación y creación de nuevas pautas de relación.
-                      p Construcción de conocimiento de manera compartida, sobre la situación de la comunidad y el territorio en temas turísticos.
-  
-                    td
-                      p.text-right Se verifica que se encuentren todos los miembros del comité de trabajo (actores turísticos).
-                      p Se incentiva la participación activa, la sana comunicación, el liderazgo y las responsabilidades individuales, grupales y con la comunidad.
-                      p Presentación de agenda y plan de trabajo.
-  
-  
-                  tr
-                    td
-                      p  #[b El acuerdo para el desarrollo comunitario]
-                    td.text-left
-                      p Elaboración del documento acuerdo, el cual establece el marco de referencia organizativo, compromisos y responsabilidades de los actores de forma individual y colectivo.
-  
-                    td.text-left
-                      p Se indican los acuerdos, se realizan a las acciones que serán cumplidos por los actores involucrados.
-                      p Conclusiones del diálogo.
-                      p Firma del documento acuerdo.
-                      p Se entregan impresos de las acciones.
-                   
-                    
-                  tr
-                    td
-                      p  #[b Los recursos humanos y la estructura organizativa]
-                    td.text-left
-                      p Se estructura la organización de los actores frente a la vinculación con las acciones turísticas a través de tres niveles de intervención.
-  
-                    td.text-left
-                      p Nivel de integración y diálogo entre actores, promoción política del proceso, la definición de directrices y objetivos, y el seguimiento a las acciones de concertación desde lo gubernamental.
-                      p Nivel de dirección técnica al plan de trabajo incorporando propuestas de los comités de trabajo, garantizando la transversalidad y delegación de acciones y fomentando la participación social.
-                      p Los recursos económicos asignados a cada acción y los de infraestructura deben tener una dimensión simbólica que refleje la transformación del territorio, beneficiando no solo a quienes están directamente involucrados, sino también al conjunto de vecinos y al tejido asociativo de la comunidad.
-                  tr
-                    td
-                      p  #[b Ejecución de acciones concertadas]
-                    td.text-left
-                      p Validación por líderes de equipo de la ejecución del plan conforme a lo proyectado.
-  
-                    td.text-left
-                      p Los actores turísticos toman las acciones asignadas, verifican tiempos, recursos y responsables.
-                      p Se expresan las necesidades de ajuste para cumplimiento y sugerencias de alternativa - solución.
+      .titulo-sexto.color-acento-contenido.offset-0(data-aos="zoom-in")
+        h5 Tabla 6.
+        span  #[i Componentes que conforman el esquema metodológico de concertación]
+      .row.mb-4
+        .col-lg-12
+          .tabla-b.color-acento-contenido.mb-4
+            table(alt="Tabla que detalla los componentes que hacen parte de un esquema metodológico, relacionando los pasos y la descripción de cada uno.")
+              caption Nota. Ajustado de Gomà (s.f.)
+              thead.bghead
+                tr
+                  th Componente
+                  th Pasos
+                  th Descripción
+              tbody
+                tr
+                  td  #[b El diagnóstico comunitario y participativo]
+                  td 
+                    p.text-right Identificación de actores turísticos presentes en el territorio.
+                    p Comunicación y creación de nuevas pautas de relación.
+                    p Construcción de conocimiento de manera compartida, sobre la situación de la comunidad y el territorio en temas turísticos.
+
+                  td
+                    p.text-right Se verifica que se encuentren todos los miembros del comité de trabajo (actores turísticos).
+                    p Se incentiva la participación activa, la sana comunicación, el liderazgo y las responsabilidades individuales, grupales y con la comunidad.
+                    p Presentación de agenda y plan de trabajo.
+
+
+                tr
+                  td
+                    p  #[b El acuerdo para el desarrollo comunitario]
+                  td.text-left
+                    p Elaboración del documento acuerdo, el cual establece el marco de referencia organizativo, compromisos y responsabilidades de los actores de forma individual y colectivo.
+
+                  td.text-left
+                    p Se indican los acuerdos, se realizan a las acciones que serán cumplidos por los actores involucrados.
+                    p Conclusiones del diálogo.
+                    p Firma del documento acuerdo.
+                    p Se entregan impresos de las acciones.
+                  
+                  
+                tr
+                  td
+                    p  #[b Los recursos humanos y la estructura organizativa]
+                  td.text-left
+                    p Se estructura la organización de los actores frente a la vinculación con las acciones turísticas a través de tres niveles de intervención.
+
+                  td.text-left
+                    p Nivel de integración y diálogo entre actores, promoción política del proceso, la definición de directrices y objetivos, y el seguimiento a las acciones de concertación desde lo gubernamental.
+                    p Nivel de dirección técnica al plan de trabajo incorporando propuestas de los comités de trabajo, garantizando la transversalidad y delegación de acciones y fomentando la participación social.
+                    p Los recursos económicos asignados a cada acción y los de infraestructura deben tener una dimensión simbólica que refleje la transformación del territorio, beneficiando no solo a quienes están directamente involucrados, sino también al conjunto de vecinos y al tejido asociativo de la comunidad.
+                tr
+                  td
+                    p  #[b Ejecución de acciones concertadas]
+                  td.text-left
+                    p Validación por líderes de equipo de la ejecución del plan conforme a lo proyectado.
+                    p Implementación de acciones concertadas
+
+                  td.text-left
+                    p Los actores turísticos toman las acciones asignadas, verifican tiempos, recursos y responsables.
+                    p Se expresan las necesidades de ajuste para cumplimiento y sugerencias de alternativa - solución.
+                    p Iniciar con acciones prioritarias (pendientes).
+                    p Continuar la implementación según prioridad y aprobación del plan:
+                    p #[b Prioridad Baja:] hace referencia a las acciones que pueden iniciar su implementación pasado en el segundo año de la aprobación del plan.
+                    p #[b Prioridad Media:] hace referencia a las acciones que pueden iniciar su implementación al finalizar el primer año de la aprobación del plan
+                    p #[b Prioridad Alta:] hace referencia a las acciones que pueden iniciar su implementación durante los primeros seis meses de la aprobación del plan.
+
+
               
   
       separador
@@ -178,9 +187,6 @@
                   li
                     i.fas.fa-angle-right
                     | Ofrecer información útil y accesible para los actores involucrados. 
-                  li
-                    i.fas.fa-angle-right
-                    | Existencia de mecanismos y procesos, ya sean formales o informales, que facilitan la interacción y el apoyo social, destacando las pautas de vinculación mutua y reciprocidad diaria.
                   li
                     i.fas.fa-angle-right
                     | Fomentar un entorno de aprendizaje y confianza que promueva la reflexión crítica y mejoras entre todos los actores. 

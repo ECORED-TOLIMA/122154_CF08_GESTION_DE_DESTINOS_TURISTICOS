@@ -48,7 +48,7 @@
       .row.mb-4
         .col-lg-11
           LineaTiempoE.color-primario
-            .row(titulo="Epoca primitiva" subtitulo="")
+            .row(titulo="Época primitiva" subtitulo="")
               .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
                 ul.lista-ul
                   li
@@ -366,19 +366,19 @@
                     ul.lista-ul
                       li
                         i.fas.fa-angle-right
-                        | Mejora del ambiente laboral: satisfacer las necesidades básicas y psicológicas de los empleados crea un entorno de trabajo más saludable y agradable, reduciendo el estrés y aumentando la satisfacción laboral. 
+                        | #[b Mejora del ambiente laboral:] satisfacer las necesidades básicas y psicológicas de los empleados crea un entorno de trabajo más saludable y agradable, reduciendo el estrés y aumentando la satisfacción laboral. 
                       li
                         i.fas.fa-angle-right
-                        | Incremento de la productividad: los empleados motivados tienden a ser más productivos. Satisfacer tus necesidades básicas de seguridad asegura que puedan centrarse en sus tareas sin preocupaciones externas, mejorando su rendimiento. 
+                        | #[b Incremento de la productividad:] los empleados motivados tienden a ser más productivos. Satisfacer tus necesidades básicas de seguridad asegura que puedan centrarse en sus tareas sin preocupaciones externas, mejorando su rendimiento. 
                       li
                         i.fas.fa-angle-right
-                        | Retención del talento: la satisfacción de las necesidades sociales y de reconocimiento es clave para la retención del talento. Los empleados que se sienten valorados y apreciados son menos propensos a buscar nuevas oportunidades laborales. 
+                        | #[b Retención del talento:] la satisfacción de las necesidades sociales y de reconocimiento es clave para la retención del talento. Los empleados que se sienten valorados y apreciados son menos propensos a buscar nuevas oportunidades laborales. 
                       li
                         i.fas.fa-angle-right
-                        | Desarrollo personal y profesional: fomentar la autorrealización permite a los empleados desarrollar todo su potencial. Esto no solo beneficia a los individuos, sino que también aporta un valor añadido a la empresa mediante la innovación y la mejora continua. 
+                        | #[b Desarrollo personal y profesional:] fomentar la autorrealización permite a los empleados desarrollar todo su potencial. Esto no solo beneficia a los individuos, sino que también aporta un valor añadido a la empresa mediante la innovación y la mejora continua. 
                       li
                         i.fas.fa-angle-right
-                        | Toma de decisiones estratégicas: comprender las necesidades de los empleados facilita la toma de decisiones informadas y estratégicas en la gestión de recursos humanos, contribuyendo a una cultura organizacional positiva y eficiente.  
+                        | #[b Toma de decisiones estratégicas:] comprender las necesidades de los empleados facilita la toma de decisiones informadas y estratégicas en la gestión de recursos humanos, contribuyendo a una cultura organizacional positiva y eficiente.  
 
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
@@ -586,7 +586,7 @@
                         | #[b Formas:] documentos que contienen información formal de lo que acontece en la organización de los actores.
                       li
                         i.fas.fa-angle-right
-                        | #[b Análisis de involucrados:] plantilla que sirve para obtener información sobre los involucrados, sus interés y forma de contribución.
+                        | #[b Análisis de involucrados:] plantilla que sirve para obtener información sobre los involucrados, sus intereses y forma de contribución.
                       li
                         i.fas.fa-angle-right
                         | #[b Descripción del rol:] técnica en la que se reclasifican las labores que se desempeñan en una actividad.

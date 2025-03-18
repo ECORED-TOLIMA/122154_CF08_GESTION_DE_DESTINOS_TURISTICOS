@@ -53,7 +53,7 @@ export default {
           },
           {
             numero: '1.4',
-            titulo: 'DesPlanificación estratégica en la administracióntinos',
+            titulo: 'Planificación estratégica en la administracióntinos',
             hash: 't_1_4',
           },
         ],
@@ -257,12 +257,12 @@ export default {
     {
       termino: 'Gobernabilidad',
       significado:
-        'Capacidad del Estado para cumplir sus funciones mediante la acción de gestión del Gobierno de turno y de esta forma, también contempla la capacidad de la sociedad para responder a estas acciones, siendo gobernada.',
+        'es la capacidad del Estado para cumplir sus funciones mediante la acción de gestión del Gobierno de turno y de esta forma, también contempla la capacidad de la sociedad para responder a estas acciones, siendo gobernada.',
     },
     {
       termino: 'Gobernanza',
       significado:
-        'Realización de relaciones entre diversos actores involucrados en el proceso de decidir, ejecutar y evaluar asuntos de interés público, proceso que puede ser caracterizado por la competencia y cooperación donde coexisten como reglas posibles.',
+        'es la realización de relaciones entre diversos actores involucrados en el proceso de decidir, ejecutar y evaluar asuntos de interés público, proceso que puede ser caracterizado por la competencia y cooperación donde coexisten como reglas posibles.',
     },
   ],
   referencias: [
