@@ -53,7 +53,7 @@ export default {
           },
           {
             numero: '1.4',
-            titulo: 'Planificación estratégica en la administracióntinos',
+            titulo: 'Planificación estratégica en la administración',
             hash: 't_1_4',
           },
         ],
@@ -266,6 +266,15 @@ export default {
     },
   ],
   referencias: [
+    {
+      referencia: 'Arumir, A. (2016). Proceso administrativo en el turismo. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Arzube Mendoza, E. & Bustos Goya, Z. (2017). La administración y su relación con el desarrollo organizacional. Revista Contribuciones a la Economía.',
+      link: '',
+    },
     {
       referencia:
         'ATCAL. (s.f.). Aprende a resolver conflictos laborales en 15 minutos sin que te cueste la paciencia.',

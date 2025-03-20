@@ -98,7 +98,7 @@
   
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-12(data-aos="fade-right")
-          p De igual manera, se detallan lo siguientes componentes:
+          p De igual manera, se detallan los siguientes componentes:
   
       .titulo-sexto.color-acento-contenido.offset-0(data-aos="zoom-in")
         h5 Tabla 6.
